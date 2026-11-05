@@ -1,0 +1,1464 @@
+id,fecha,producto,categoria,vendedor,id_cliente,cantidad,precio_unitario,total
+1,2026-01-05,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",5,10,1.68,16.8
+2,2026-01-05,"Insecticida 1 L",Agroquímicos,"Carlos Vera",11,2,16.25,32.5
+3,2026-01-05,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",20,20,1.68,33.6
+4,2026-01-05,"Semilla de maíz híbrido",Semillas,"Administrador Demo",9,1,109.25,109.25
+5,2026-01-05,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",6,50,1.68,84
+6,2026-01-05,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",5,1,40.8,40.8
+7,2026-01-06,"Cinta de goteo 100 m",Riego,"Administrador Demo",24,1,22.5,22.5
+8,2026-01-06,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",23,20,1.68,33.6
+9,2026-01-06,"Semilla de maíz híbrido",Semillas,"María Quiñónez",22,1,109.25,109.25
+10,2026-01-06,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",14,20,1.68,33.6
+11,2026-01-06,"Urea 46%",Fertilizantes,"María Quiñónez",4,1,33.6,33.6
+12,2026-01-06,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,50,1.68,84
+13,2026-01-06,"Abono orgánico compost",Fertilizantes,"Carlos Vera",9,1,12.35,12.35
+14,2026-01-07,"Insecticida 1 L",Agroquímicos,"María Quiñónez",8,2,16.25,32.5
+15,2026-01-07,"Herbicida 1 L",Agroquímicos,"María Quiñónez",25,2,13,26
+16,2026-01-07,"Urea 46%",Fertilizantes,"María Quiñónez",11,2,33.6,67.2
+17,2026-01-07,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",12,25,1.68,42
+18,2026-01-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,25,1.68,42
+19,2026-01-07,"Abono orgánico compost",Fertilizantes,"María Quiñónez",9,1,12.35,12.35
+20,2026-01-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",25,10,1.68,16.8
+21,2026-01-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,20,1.68,33.6
+22,2026-01-08,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",5,2,71.3,142.6
+23,2026-01-08,"Urea 46%",Fertilizantes,"Administrador Demo",23,1,33.6,33.6
+24,2026-01-08,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",14,1,40.8,40.8
+25,2026-01-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,20,1.68,33.6
+26,2026-01-08,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,25,1.68,42
+27,2026-01-08,"Herbicida 1 L",Agroquímicos,"Carlos Vera",24,2,13,26
+28,2026-01-09,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",24,5,18.2,91
+29,2026-01-09,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",19,25,1.68,42
+30,2026-01-09,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",18,1,18.2,18.2
+31,2026-01-09,"Urea 46%",Fertilizantes,"Carlos Vera",5,1,33.6,33.6
+32,2026-01-09,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,50,1.68,84
+33,2026-01-09,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,10,1.68,16.8
+34,2026-01-10,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,20,1.68,33.6
+35,2026-01-10,"Urea 46%",Fertilizantes,"Carlos Vera",17,5,33.6,168
+36,2026-01-10,"Machete 22 pulgadas",Herramientas,"María Quiñónez",20,1,8.78,8.78
+37,2026-01-10,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",25,20,1.68,33.6
+38,2026-01-10,"Cinta de goteo 100 m",Riego,"Administrador Demo",3,1,22.5,22.5
+39,2026-01-10,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",21,3,18.2,54.6
+40,2026-01-10,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",3,20,1.68,33.6
+41,2026-01-12,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",1,25,1.68,42
+42,2026-01-12,"Abono orgánico compost",Fertilizantes,"Administrador Demo",25,3,12.35,37.05
+43,2026-01-12,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,25,1.68,42
+44,2026-01-12,"Insecticida 1 L",Agroquímicos,"María Quiñónez",21,2,16.25,32.5
+45,2026-01-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,10,1.68,16.8
+46,2026-01-12,"Herbicida 1 L",Agroquímicos,"Carlos Vera",13,1,13,13
+47,2026-01-12,"Insecticida 1 L",Agroquímicos,"Carlos Vera",15,1,16.25,16.25
+48,2026-01-12,"Semilla de maíz híbrido",Semillas,"María Quiñónez",22,1,109.25,109.25
+49,2026-01-12,"Abono orgánico compost",Fertilizantes,"Carlos Vera",22,1,12.35,12.35
+50,2026-01-12,"Urea 46%",Fertilizantes,"Administrador Demo",25,1,33.6,33.6
+51,2026-01-12,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",4,1,18.2,18.2
+52,2026-01-13,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",17,25,1.68,42
+53,2026-01-13,"Machete 22 pulgadas",Herramientas,"María Quiñónez",20,1,8.78,8.78
+54,2026-01-13,"Semilla de maíz híbrido",Semillas,"Carlos Vera",14,1,109.25,109.25
+55,2026-01-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,25,1.68,42
+56,2026-01-13,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",18,2,40.8,81.6
+57,2026-01-13,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",17,25,1.68,42
+58,2026-01-14,"Semilla de maíz híbrido",Semillas,"María Quiñónez",2,1,109.25,109.25
+59,2026-01-14,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,50,1.68,84
+60,2026-01-14,"Urea 46%",Fertilizantes,"Carlos Vera",15,5,33.6,168
+62,2026-01-14,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",6,20,1.68,33.6
+61,2026-01-14,"Urea 46%",Fertilizantes,"Carlos Vera",7,3,33.6,100.8
+63,2026-01-14,"Abono orgánico compost",Fertilizantes,"Carlos Vera",18,1,12.35,12.35
+64,2026-01-15,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",18,1,18.2,18.2
+65,2026-01-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",12,50,1.68,84
+66,2026-01-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",25,10,1.68,16.8
+67,2026-01-15,"Machete 22 pulgadas",Herramientas,"Administrador Demo",18,1,8.78,8.78
+68,2026-01-15,"Insecticida 1 L",Agroquímicos,"María Quiñónez",10,1,16.25,16.25
+69,2026-01-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,25,1.68,42
+70,2026-01-16,"Urea 46%",Fertilizantes,"María Quiñónez",14,3,33.6,100.8
+71,2026-01-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,10,1.68,16.8
+72,2026-01-16,"Herbicida 1 L",Agroquímicos,"María Quiñónez",9,2,13,26
+73,2026-01-16,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",3,1,18.2,18.2
+74,2026-01-16,"Herbicida 1 L",Agroquímicos,"Administrador Demo",4,1,13,13
+75,2026-01-16,"Machete 22 pulgadas",Herramientas,"Carlos Vera",6,2,8.78,17.56
+76,2026-01-16,"Semilla de maíz híbrido",Semillas,"María Quiñónez",16,1,109.25,109.25
+77,2026-01-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,50,1.68,84
+78,2026-01-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",16,10,1.68,16.8
+79,2026-01-17,"Abono orgánico compost",Fertilizantes,"Carlos Vera",7,2,12.35,24.7
+80,2026-01-17,"Insecticida 1 L",Agroquímicos,"María Quiñónez",23,5,16.25,81.25
+81,2026-01-17,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",11,20,1.68,33.6
+82,2026-01-19,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",24,3,40.8,122.4
+83,2026-01-19,"Abono orgánico compost",Fertilizantes,"Carlos Vera",23,5,12.35,61.75
+84,2026-01-19,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",15,3,40.8,122.4
+85,2026-01-19,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",23,50,1.68,84
+86,2026-01-19,"Insecticida 1 L",Agroquímicos,"María Quiñónez",2,1,16.25,16.25
+87,2026-01-19,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",19,20,1.68,33.6
+88,2026-01-20,"Manguera 1/2 pulgada 50 m",Riego,"Administrador Demo",8,1,27.5,27.5
+89,2026-01-20,"Herbicida 1 L",Agroquímicos,"Administrador Demo",17,1,13,13
+90,2026-01-20,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,10,1.68,16.8
+91,2026-01-20,"Cinta de goteo 100 m",Riego,"Carlos Vera",25,1,22.5,22.5
+92,2026-01-20,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",23,25,1.68,42
+93,2026-01-20,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",19,1,18.2,18.2
+94,2026-01-20,"Cinta de goteo 100 m",Riego,"María Quiñónez",16,1,22.5,22.5
+95,2026-01-20,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",7,1,18.2,18.2
+96,2026-01-21,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",20,10,1.68,16.8
+97,2026-01-21,"Urea 46%",Fertilizantes,"Carlos Vera",3,2,33.6,67.2
+98,2026-01-21,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,10,1.68,16.8
+99,2026-01-21,"Urea 46%",Fertilizantes,"Carlos Vera",17,1,33.6,33.6
+100,2026-01-21,"Herbicida 1 L",Agroquímicos,"Administrador Demo",5,2,13,26
+101,2026-01-21,"Abono orgánico compost",Fertilizantes,"Carlos Vera",19,1,12.35,12.35
+102,2026-01-21,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",12,10,1.68,16.8
+103,2026-01-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",24,10,1.68,16.8
+104,2026-01-22,"Urea 46%",Fertilizantes,"Administrador Demo",24,2,33.6,67.2
+105,2026-01-22,"Insecticida 1 L",Agroquímicos,"Administrador Demo",13,2,16.25,32.5
+106,2026-01-22,"Herbicida 1 L",Agroquímicos,"Carlos Vera",18,1,13,13
+107,2026-01-22,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",15,2,40.8,81.6
+108,2026-01-22,"Urea 46%",Fertilizantes,"María Quiñónez",5,3,33.6,100.8
+109,2026-01-22,"Abono orgánico compost",Fertilizantes,"María Quiñónez",2,5,12.35,61.75
+110,2026-01-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,20,1.68,33.6
+111,2026-01-22,"Herbicida 1 L",Agroquímicos,"María Quiñónez",2,1,13,13
+112,2026-01-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",21,25,1.68,42
+113,2026-01-23,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,20,1.68,33.6
+114,2026-01-23,"Abono orgánico compost",Fertilizantes,"Administrador Demo",21,1,12.35,12.35
+115,2026-01-23,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,25,1.68,42
+116,2026-01-23,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",12,3,18.2,54.6
+117,2026-01-23,"Herbicida 1 L",Agroquímicos,"Carlos Vera",12,1,13,13
+118,2026-01-23,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,20,1.68,33.6
+119,2026-01-23,"Urea 46%",Fertilizantes,"Carlos Vera",6,1,33.6,33.6
+120,2026-01-23,"Herbicida 1 L",Agroquímicos,"María Quiñónez",13,2,13,26
+121,2026-01-23,"Herbicida 1 L",Agroquímicos,"María Quiñónez",7,5,13,65
+122,2026-01-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,25,1.68,42
+123,2026-01-24,"Herbicida 1 L",Agroquímicos,"Administrador Demo",21,5,13,65
+124,2026-01-24,"Herbicida 1 L",Agroquímicos,"María Quiñónez",6,3,13,39
+125,2026-01-24,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,50,1.68,84
+126,2026-01-24,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",8,10,1.68,16.8
+127,2026-01-24,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",8,1,71.3,71.3
+128,2026-01-24,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",13,1,18.2,18.2
+129,2026-01-24,"Aspersor de impacto",Riego,"Carlos Vera",21,1,9.75,9.75
+130,2026-01-24,"Urea 46%",Fertilizantes,"Carlos Vera",20,3,33.6,100.8
+131,2026-01-24,"Tijera de podar",Herramientas,"María Quiñónez",14,1,10.8,10.8
+132,2026-01-26,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",3,2,71.3,142.6
+133,2026-01-26,"Insecticida 1 L",Agroquímicos,"Carlos Vera",15,2,16.25,32.5
+134,2026-01-26,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",3,5,18.2,91
+135,2026-01-26,"Urea 46%",Fertilizantes,"Carlos Vera",15,5,33.6,168
+136,2026-01-26,"Herbicida 1 L",Agroquímicos,"María Quiñónez",3,2,13,26
+137,2026-01-26,"Cinta de goteo 100 m",Riego,"Carlos Vera",3,1,22.5,22.5
+138,2026-01-26,"Machete 22 pulgadas",Herramientas,"Administrador Demo",6,1,8.78,8.78
+139,2026-01-26,"Urea 46%",Fertilizantes,"Carlos Vera",9,3,33.6,100.8
+140,2026-01-26,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",6,50,1.68,84
+141,2026-01-27,"Urea 46%",Fertilizantes,"Administrador Demo",14,2,33.6,67.2
+142,2026-01-27,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",3,1,71.3,71.3
+143,2026-01-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,50,1.68,84
+144,2026-01-27,"Insecticida 1 L",Agroquímicos,"Carlos Vera",2,3,16.25,48.75
+145,2026-01-27,"Semilla de maíz híbrido",Semillas,"María Quiñónez",17,1,109.25,109.25
+146,2026-01-27,"Abono orgánico compost",Fertilizantes,"Administrador Demo",11,2,12.35,24.7
+147,2026-01-27,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",9,5,71.3,356.5
+148,2026-01-27,"Insecticida 1 L",Agroquímicos,"Carlos Vera",20,1,16.25,16.25
+149,2026-01-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,25,1.68,42
+150,2026-01-28,"Cinta de goteo 100 m",Riego,"Administrador Demo",14,1,22.5,22.5
+151,2026-01-28,"Abono orgánico compost",Fertilizantes,"Administrador Demo",1,2,12.35,24.7
+152,2026-01-28,"Semilla de maíz híbrido",Semillas,"María Quiñónez",24,1,109.25,109.25
+153,2026-01-28,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",6,1,18.2,18.2
+154,2026-01-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",23,10,1.68,16.8
+155,2026-01-29,"Urea 46%",Fertilizantes,"María Quiñónez",20,3,33.6,100.8
+156,2026-01-29,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,50,1.68,84
+157,2026-01-29,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",5,2,18.2,36.4
+158,2026-01-29,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",23,10,1.68,16.8
+159,2026-01-30,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",15,20,1.68,33.6
+160,2026-01-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,10,1.68,16.8
+161,2026-01-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,10,1.68,16.8
+162,2026-01-30,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",18,5,40.8,204
+163,2026-01-30,"Herbicida 1 L",Agroquímicos,"Administrador Demo",6,5,13,65
+164,2026-01-30,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",16,1,71.3,71.3
+165,2026-01-31,"Semilla de maíz híbrido",Semillas,"María Quiñónez",9,1,109.25,109.25
+166,2026-01-31,"Abono orgánico compost",Fertilizantes,"Carlos Vera",25,5,12.35,61.75
+167,2026-01-31,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,10,1.68,16.8
+168,2026-01-31,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",3,1,18.2,18.2
+169,2026-01-31,"Abono orgánico compost",Fertilizantes,"Carlos Vera",8,2,12.35,24.7
+170,2026-01-31,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,10,1.68,16.8
+171,2026-02-02,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",4,5,18.2,91
+172,2026-02-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,20,1.68,33.6
+173,2026-02-02,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",9,20,1.68,33.6
+174,2026-02-02,"Herbicida 1 L",Agroquímicos,"María Quiñónez",3,2,13,26
+175,2026-02-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,25,1.68,42
+176,2026-02-02,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",25,3,40.8,122.4
+177,2026-02-02,"Insecticida 1 L",Agroquímicos,"María Quiñónez",10,1,16.25,16.25
+178,2026-02-02,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",10,2,40.8,81.6
+179,2026-02-02,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",13,1,71.3,71.3
+180,2026-02-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,50,1.68,84
+181,2026-02-03,"Herbicida 1 L",Agroquímicos,"Administrador Demo",24,3,13,39
+182,2026-02-03,"Abono orgánico compost",Fertilizantes,"María Quiñónez",16,2,12.35,24.7
+183,2026-02-03,"Urea 46%",Fertilizantes,"María Quiñónez",17,1,33.6,33.6
+184,2026-02-03,"Semilla de maíz híbrido",Semillas,"María Quiñónez",9,1,109.25,109.25
+185,2026-02-03,"Semilla de maíz híbrido",Semillas,"Carlos Vera",16,1,109.25,109.25
+186,2026-02-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,10,1.68,16.8
+187,2026-02-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,10,1.68,16.8
+188,2026-02-03,"Urea 46%",Fertilizantes,"Administrador Demo",25,1,33.6,33.6
+189,2026-02-03,"Semilla de maíz híbrido",Semillas,"María Quiñónez",15,1,109.25,109.25
+190,2026-02-03,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",13,3,40.8,122.4
+191,2026-02-04,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",6,1,47.5,47.5
+192,2026-02-04,"Herbicida 1 L",Agroquímicos,"Carlos Vera",16,5,13,65
+193,2026-02-04,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",22,5,18.2,91
+194,2026-02-04,"Insecticida 1 L",Agroquímicos,"Carlos Vera",18,1,16.25,16.25
+195,2026-02-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,25,1.68,42
+196,2026-02-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,25,1.68,42
+197,2026-02-04,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",8,20,1.68,33.6
+198,2026-02-04,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",23,3,71.3,213.9
+199,2026-02-05,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",22,5,18.2,91
+200,2026-02-05,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,50,1.68,84
+201,2026-02-05,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",25,10,1.68,16.8
+202,2026-02-05,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,20,1.68,33.6
+203,2026-02-05,"Manguera 1/2 pulgada 50 m",Riego,"Administrador Demo",1,1,27.5,27.5
+204,2026-02-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,20,1.68,33.6
+205,2026-02-06,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",16,2,71.3,142.6
+206,2026-02-06,"Urea 46%",Fertilizantes,"Administrador Demo",14,1,33.6,33.6
+207,2026-02-06,"Urea 46%",Fertilizantes,"Carlos Vera",5,2,33.6,67.2
+208,2026-02-06,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",4,2,40.8,81.6
+209,2026-02-06,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,20,1.68,33.6
+210,2026-02-06,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",24,50,1.68,84
+211,2026-02-07,"Cinta de goteo 100 m",Riego,"Carlos Vera",3,1,22.5,22.5
+212,2026-02-07,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",9,2,40.8,81.6
+213,2026-02-07,"Abono orgánico compost",Fertilizantes,"María Quiñónez",17,5,12.35,61.75
+214,2026-02-07,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",16,1,71.3,71.3
+215,2026-02-07,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",12,3,18.2,54.6
+216,2026-02-07,"Herbicida 1 L",Agroquímicos,"Administrador Demo",23,2,13,26
+217,2026-02-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,50,1.68,84
+218,2026-02-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,10,1.68,16.8
+219,2026-02-09,"Machete 22 pulgadas",Herramientas,"María Quiñónez",6,3,8.78,26.34
+220,2026-02-09,"Herbicida 1 L",Agroquímicos,"María Quiñónez",4,2,13,26
+221,2026-02-09,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,10,1.68,16.8
+222,2026-02-09,"Machete 22 pulgadas",Herramientas,"Carlos Vera",8,1,8.78,8.78
+223,2026-02-09,"Semilla de maíz híbrido",Semillas,"María Quiñónez",15,1,109.25,109.25
+224,2026-02-09,"Urea 46%",Fertilizantes,"Carlos Vera",1,2,33.6,67.2
+225,2026-02-09,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,25,1.68,42
+226,2026-02-09,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",8,3,18.2,54.6
+227,2026-02-10,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,10,1.68,16.8
+228,2026-02-10,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",18,5,71.3,356.5
+229,2026-02-10,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",1,1,18.2,18.2
+230,2026-02-10,"Abono orgánico compost",Fertilizantes,"María Quiñónez",4,2,12.35,24.7
+231,2026-02-10,"Cinta de goteo 100 m",Riego,"María Quiñónez",11,1,22.5,22.5
+232,2026-02-10,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",10,20,1.68,33.6
+233,2026-02-10,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",18,1,71.3,71.3
+234,2026-02-10,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",20,20,1.68,33.6
+235,2026-02-10,"Urea 46%",Fertilizantes,"Carlos Vera",4,2,33.6,67.2
+236,2026-02-10,"Herbicida 1 L",Agroquímicos,"Carlos Vera",3,1,13,13
+237,2026-02-10,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",23,1,40.8,40.8
+238,2026-02-10,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",9,1,40.8,40.8
+239,2026-02-11,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,25,1.68,42
+240,2026-02-11,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",14,10,1.68,16.8
+241,2026-02-11,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",23,2,40.8,81.6
+242,2026-02-11,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",16,3,40.8,122.4
+243,2026-02-11,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,20,1.68,33.6
+244,2026-02-11,"Tijera de podar",Herramientas,"María Quiñónez",16,1,10.8,10.8
+245,2026-02-11,"Aspersor de impacto",Riego,"Carlos Vera",10,1,9.75,9.75
+246,2026-02-11,"Herbicida 1 L",Agroquímicos,"María Quiñónez",23,1,13,13
+247,2026-02-11,"Herbicida 1 L",Agroquímicos,"María Quiñónez",19,5,13,65
+248,2026-02-11,"Abono orgánico compost",Fertilizantes,"María Quiñónez",4,1,12.35,12.35
+249,2026-02-11,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",2,2,40.8,81.6
+250,2026-02-12,"Semilla de maíz híbrido",Semillas,"María Quiñónez",14,1,109.25,109.25
+251,2026-02-12,"Abono orgánico compost",Fertilizantes,"Carlos Vera",24,3,12.35,37.05
+252,2026-02-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",14,25,1.68,42
+253,2026-02-12,"Herbicida 1 L",Agroquímicos,"María Quiñónez",14,2,13,26
+254,2026-02-12,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",3,3,18.2,54.6
+255,2026-02-12,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",12,2,40.8,81.6
+256,2026-02-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,25,1.68,42
+257,2026-02-12,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",17,1,40.8,40.8
+258,2026-02-12,"Insecticida 1 L",Agroquímicos,"Administrador Demo",21,3,16.25,48.75
+259,2026-02-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,25,1.68,42
+260,2026-02-13,"Urea 46%",Fertilizantes,"Carlos Vera",16,5,33.6,168
+261,2026-02-13,"Herbicida 1 L",Agroquímicos,"María Quiñónez",24,1,13,13
+262,2026-02-13,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",1,1,18.2,18.2
+263,2026-02-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,20,1.68,33.6
+264,2026-02-13,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,1,40.8,40.8
+265,2026-02-13,"Abono orgánico compost",Fertilizantes,"Carlos Vera",25,1,12.35,12.35
+266,2026-02-13,"Cinta de goteo 100 m",Riego,"María Quiñónez",18,1,22.5,22.5
+267,2026-02-14,"Herbicida 1 L",Agroquímicos,"Administrador Demo",18,2,13,26
+268,2026-02-14,"Tijera de podar",Herramientas,"María Quiñónez",19,1,10.8,10.8
+269,2026-02-14,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",8,2,18.2,36.4
+270,2026-02-14,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",13,20,1.68,33.6
+271,2026-02-14,"Semilla de maíz híbrido",Semillas,"Carlos Vera",7,1,109.25,109.25
+272,2026-02-14,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",14,3,40.8,122.4
+273,2026-02-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,20,1.68,33.6
+274,2026-02-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,10,1.68,16.8
+275,2026-02-16,"Semilla de maíz híbrido",Semillas,"Carlos Vera",3,1,109.25,109.25
+276,2026-02-16,"Urea 46%",Fertilizantes,"Administrador Demo",13,1,33.6,33.6
+277,2026-02-16,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",15,2,40.8,81.6
+278,2026-02-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",1,25,1.68,42
+279,2026-02-16,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",4,5,40.8,204
+280,2026-02-17,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,50,1.68,84
+281,2026-02-17,"Herbicida 1 L",Agroquímicos,"Administrador Demo",17,2,13,26
+282,2026-02-17,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",9,5,18.2,91
+283,2026-02-17,"Machete 22 pulgadas",Herramientas,"Carlos Vera",16,2,8.78,17.56
+284,2026-02-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,20,1.68,33.6
+285,2026-02-17,"Herbicida 1 L",Agroquímicos,"Carlos Vera",20,1,13,13
+286,2026-02-17,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",14,10,1.68,16.8
+287,2026-02-17,"Urea 46%",Fertilizantes,"Carlos Vera",1,2,33.6,67.2
+288,2026-02-17,"Urea 46%",Fertilizantes,"María Quiñónez",11,3,33.6,100.8
+289,2026-02-18,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,25,1.68,42
+290,2026-02-18,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",16,5,71.3,356.5
+291,2026-02-18,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",21,20,1.68,33.6
+292,2026-02-18,"Urea 46%",Fertilizantes,"Administrador Demo",23,2,33.6,67.2
+293,2026-02-18,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",6,3,18.2,54.6
+294,2026-02-18,"Abono orgánico compost",Fertilizantes,"Carlos Vera",4,1,12.35,12.35
+295,2026-02-18,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",15,1,18.2,18.2
+296,2026-02-18,"Urea 46%",Fertilizantes,"María Quiñónez",1,2,33.6,67.2
+297,2026-02-19,"Abono orgánico compost",Fertilizantes,"Carlos Vera",23,3,12.35,37.05
+298,2026-02-19,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",17,2,18.2,36.4
+299,2026-02-19,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,20,1.68,33.6
+300,2026-02-19,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,25,1.68,42
+301,2026-02-19,"Urea 46%",Fertilizantes,"María Quiñónez",9,1,33.6,33.6
+302,2026-02-19,"Abono orgánico compost",Fertilizantes,"María Quiñónez",11,1,12.35,12.35
+303,2026-02-19,"Urea 46%",Fertilizantes,"Administrador Demo",1,2,33.6,67.2
+304,2026-02-20,"Herbicida 1 L",Agroquímicos,"María Quiñónez",9,1,13,13
+305,2026-02-20,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",3,25,1.68,42
+306,2026-02-20,"Cinta de goteo 100 m",Riego,"Carlos Vera",4,1,22.5,22.5
+307,2026-02-20,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,50,1.68,84
+308,2026-02-20,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",20,1,40.8,40.8
+309,2026-02-20,"Tijera de podar",Herramientas,"Carlos Vera",19,1,10.8,10.8
+310,2026-02-20,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",14,10,1.68,16.8
+311,2026-02-20,"Herbicida 1 L",Agroquímicos,"María Quiñónez",24,2,13,26
+312,2026-02-20,"Insecticida 1 L",Agroquímicos,"María Quiñónez",1,5,16.25,81.25
+313,2026-02-20,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",13,2,71.3,142.6
+314,2026-02-20,"Abono orgánico compost",Fertilizantes,"María Quiñónez",3,1,12.35,12.35
+315,2026-02-20,"Semilla de maíz híbrido",Semillas,"Carlos Vera",16,1,109.25,109.25
+316,2026-02-21,"Urea 46%",Fertilizantes,"Carlos Vera",5,1,33.6,33.6
+317,2026-02-21,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",6,10,1.68,16.8
+318,2026-02-21,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",12,5,18.2,91
+319,2026-02-21,"Urea 46%",Fertilizantes,"Carlos Vera",3,3,33.6,100.8
+320,2026-02-21,"Insecticida 1 L",Agroquímicos,"María Quiñónez",21,1,16.25,16.25
+321,2026-02-21,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",24,10,1.68,16.8
+322,2026-02-21,"Herbicida 1 L",Agroquímicos,"Carlos Vera",1,1,13,13
+323,2026-02-23,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",13,25,1.68,42
+324,2026-02-23,"Abono orgánico compost",Fertilizantes,"María Quiñónez",13,1,12.35,12.35
+325,2026-02-23,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",13,1,40.8,40.8
+326,2026-02-23,"Abono orgánico compost",Fertilizantes,"Administrador Demo",14,5,12.35,61.75
+327,2026-02-23,"Urea 46%",Fertilizantes,"María Quiñónez",8,1,33.6,33.6
+328,2026-02-23,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",6,20,1.68,33.6
+329,2026-02-23,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",16,10,1.68,16.8
+330,2026-02-23,"Machete 22 pulgadas",Herramientas,"Administrador Demo",9,1,8.78,8.78
+331,2026-02-23,"Urea 46%",Fertilizantes,"María Quiñónez",21,5,33.6,168
+332,2026-02-23,"Herbicida 1 L",Agroquímicos,"María Quiñónez",3,2,13,26
+333,2026-02-23,"Herbicida 1 L",Agroquímicos,"María Quiñónez",18,1,13,13
+334,2026-02-24,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",8,2,18.2,36.4
+335,2026-02-24,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",17,2,40.8,81.6
+336,2026-02-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,50,1.68,84
+337,2026-02-24,"Semilla de maíz híbrido",Semillas,"María Quiñónez",13,1,109.25,109.25
+338,2026-02-24,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",6,25,1.68,42
+339,2026-02-25,"Semilla de maíz híbrido",Semillas,"Carlos Vera",22,1,109.25,109.25
+340,2026-02-25,"Urea 46%",Fertilizantes,"Carlos Vera",5,5,33.6,168
+341,2026-02-25,"Insecticida 1 L",Agroquímicos,"María Quiñónez",3,5,16.25,81.25
+342,2026-02-25,"Herbicida 1 L",Agroquímicos,"Administrador Demo",8,2,13,26
+343,2026-02-25,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,50,1.68,84
+344,2026-02-25,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",16,3,40.8,122.4
+345,2026-02-25,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",3,10,1.68,16.8
+346,2026-02-25,"Abono orgánico compost",Fertilizantes,"María Quiñónez",6,2,12.35,24.7
+347,2026-02-25,"Machete 22 pulgadas",Herramientas,"María Quiñónez",8,3,8.78,26.34
+348,2026-02-25,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",23,5,71.3,356.5
+349,2026-02-25,"Machete 22 pulgadas",Herramientas,"María Quiñónez",16,1,8.78,8.78
+350,2026-02-25,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",19,2,71.3,142.6
+351,2026-02-25,"Herbicida 1 L",Agroquímicos,"María Quiñónez",25,1,13,13
+352,2026-02-25,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",7,3,18.2,54.6
+353,2026-02-25,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",9,1,47.5,47.5
+354,2026-02-25,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",12,50,1.68,84
+355,2026-02-26,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",25,1,40.8,40.8
+356,2026-02-26,"Semilla de maíz híbrido",Semillas,"Carlos Vera",24,1,109.25,109.25
+357,2026-02-26,"Urea 46%",Fertilizantes,"María Quiñónez",10,2,33.6,67.2
+358,2026-02-26,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",5,5,40.8,204
+359,2026-02-26,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",10,10,1.68,16.8
+360,2026-02-26,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,25,1.68,42
+361,2026-02-26,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",21,1,71.3,71.3
+362,2026-02-26,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",8,1,18.2,18.2
+363,2026-02-26,"Urea 46%",Fertilizantes,"Carlos Vera",15,2,33.6,67.2
+364,2026-02-27,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,20,1.68,33.6
+365,2026-02-27,"Herbicida 1 L",Agroquímicos,"Administrador Demo",2,3,13,39
+366,2026-02-27,"Urea 46%",Fertilizantes,"Carlos Vera",25,3,33.6,100.8
+367,2026-02-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",8,25,1.68,42
+368,2026-02-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",12,10,1.68,16.8
+369,2026-02-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,20,1.68,33.6
+370,2026-02-28,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",19,10,1.68,16.8
+371,2026-02-28,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",19,1,40.8,40.8
+372,2026-02-28,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",4,1,40.8,40.8
+373,2026-02-28,"Insecticida 1 L",Agroquímicos,"María Quiñónez",3,5,16.25,81.25
+374,2026-02-28,"Semilla de maíz híbrido",Semillas,"Administrador Demo",16,1,109.25,109.25
+375,2026-02-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",25,10,1.68,16.8
+376,2026-02-28,"Cinta de goteo 100 m",Riego,"María Quiñónez",12,1,22.5,22.5
+377,2026-02-28,"Machete 22 pulgadas",Herramientas,"María Quiñónez",2,1,8.78,8.78
+378,2026-02-28,"Insecticida 1 L",Agroquímicos,"Carlos Vera",8,2,16.25,32.5
+379,2026-02-28,"Cinta de goteo 100 m",Riego,"Administrador Demo",12,1,22.5,22.5
+380,2026-02-28,"Semilla de maíz híbrido",Semillas,"Administrador Demo",18,1,109.25,109.25
+381,2026-02-28,"Bomba de fumigar 20 L",Herramientas,"Administrador Demo",5,1,47.5,47.5
+382,2026-02-28,"Machete 22 pulgadas",Herramientas,"María Quiñónez",1,2,8.78,17.56
+383,2026-03-02,"Herbicida 1 L",Agroquímicos,"Administrador Demo",22,1,13,13
+384,2026-03-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,50,1.68,84
+385,2026-03-02,"Insecticida 1 L",Agroquímicos,"Carlos Vera",18,2,16.25,32.5
+386,2026-03-02,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",15,3,18.2,54.6
+387,2026-03-02,"Herbicida 1 L",Agroquímicos,"María Quiñónez",23,1,13,13
+388,2026-03-02,"Urea 46%",Fertilizantes,"Carlos Vera",12,2,33.6,67.2
+389,2026-03-03,"Urea 46%",Fertilizantes,"María Quiñónez",3,5,33.6,168
+390,2026-03-03,"Urea 46%",Fertilizantes,"Carlos Vera",12,2,33.6,67.2
+391,2026-03-03,"Abono orgánico compost",Fertilizantes,"María Quiñónez",8,1,12.35,12.35
+392,2026-03-03,"Abono orgánico compost",Fertilizantes,"Carlos Vera",12,3,12.35,37.05
+393,2026-03-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,50,1.68,84
+394,2026-03-03,"Semilla de maíz híbrido",Semillas,"María Quiñónez",6,1,109.25,109.25
+395,2026-03-03,"Machete 22 pulgadas",Herramientas,"Carlos Vera",23,2,8.78,17.56
+396,2026-03-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,50,1.68,84
+397,2026-03-03,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",10,1,71.3,71.3
+398,2026-03-04,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",2,1,40.8,40.8
+399,2026-03-04,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",8,1,71.3,71.3
+400,2026-03-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,20,1.68,33.6
+401,2026-03-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,25,1.68,42
+402,2026-03-04,"Herbicida 1 L",Agroquímicos,"Administrador Demo",6,3,13,39
+403,2026-03-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,10,1.68,16.8
+404,2026-03-04,"Urea 46%",Fertilizantes,"María Quiñónez",24,1,33.6,33.6
+405,2026-03-05,"Insecticida 1 L",Agroquímicos,"Administrador Demo",10,2,16.25,32.5
+406,2026-03-05,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,20,1.68,33.6
+407,2026-03-05,"Machete 22 pulgadas",Herramientas,"María Quiñónez",24,3,8.78,26.34
+408,2026-03-05,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",23,5,40.8,204
+409,2026-03-05,"Urea 46%",Fertilizantes,"María Quiñónez",15,1,33.6,33.6
+410,2026-03-05,"Machete 22 pulgadas",Herramientas,"María Quiñónez",11,5,8.78,43.9
+411,2026-03-06,"Herbicida 1 L",Agroquímicos,"Carlos Vera",1,1,13,13
+412,2026-03-06,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,20,1.68,33.6
+413,2026-03-06,"Urea 46%",Fertilizantes,"Carlos Vera",13,1,33.6,33.6
+414,2026-03-06,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,10,1.68,16.8
+415,2026-03-07,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+416,2026-03-07,"Abono orgánico compost",Fertilizantes,"María Quiñónez",14,2,12.35,24.7
+417,2026-03-07,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",22,2,18.2,36.4
+418,2026-03-07,"Urea 46%",Fertilizantes,"Administrador Demo",9,1,33.6,33.6
+419,2026-03-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",8,10,1.68,16.8
+420,2026-03-07,"Urea 46%",Fertilizantes,"María Quiñónez",21,5,33.6,168
+421,2026-03-09,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,10,1.68,16.8
+422,2026-03-09,"Abono orgánico compost",Fertilizantes,"Administrador Demo",17,5,12.35,61.75
+423,2026-03-09,"Machete 22 pulgadas",Herramientas,"María Quiñónez",17,5,8.78,43.9
+424,2026-03-09,"Herbicida 1 L",Agroquímicos,"María Quiñónez",13,2,13,26
+425,2026-03-09,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",21,1,40.8,40.8
+426,2026-03-09,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",6,5,71.3,356.5
+427,2026-03-09,"Urea 46%",Fertilizantes,"María Quiñónez",10,1,33.6,33.6
+428,2026-03-09,"Urea 46%",Fertilizantes,"Administrador Demo",6,1,33.6,33.6
+429,2026-03-09,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",23,1,40.8,40.8
+430,2026-03-10,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",23,25,1.68,42
+431,2026-03-10,"Urea 46%",Fertilizantes,"Carlos Vera",14,1,33.6,33.6
+432,2026-03-10,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",9,1,18.2,18.2
+433,2026-03-10,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",8,50,1.68,84
+434,2026-03-10,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",7,2,40.8,81.6
+435,2026-03-11,"Urea 46%",Fertilizantes,"María Quiñónez",7,2,33.6,67.2
+436,2026-03-11,"Cinta de goteo 100 m",Riego,"Carlos Vera",3,1,22.5,22.5
+437,2026-03-11,"Insecticida 1 L",Agroquímicos,"Carlos Vera",2,3,16.25,48.75
+438,2026-03-11,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",20,2,18.2,36.4
+439,2026-03-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,10,1.68,16.8
+440,2026-03-11,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",19,50,1.68,84
+441,2026-03-11,"Urea 46%",Fertilizantes,"María Quiñónez",4,2,33.6,67.2
+442,2026-03-11,"Tijera de podar",Herramientas,"Carlos Vera",1,1,10.8,10.8
+443,2026-03-11,"Semilla de maíz híbrido",Semillas,"Carlos Vera",14,1,109.25,109.25
+444,2026-03-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+445,2026-03-12,"Cinta de goteo 100 m",Riego,"María Quiñónez",3,1,22.5,22.5
+446,2026-03-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,50,1.68,84
+447,2026-03-12,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",9,1,40.8,40.8
+448,2026-03-12,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,25,1.68,42
+449,2026-03-12,"Urea 46%",Fertilizantes,"Carlos Vera",4,2,33.6,67.2
+450,2026-03-12,"Semilla de maíz híbrido",Semillas,"María Quiñónez",19,1,109.25,109.25
+451,2026-03-12,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",3,10,1.68,16.8
+452,2026-03-12,"Abono orgánico compost",Fertilizantes,"Carlos Vera",25,1,12.35,12.35
+453,2026-03-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",23,10,1.68,16.8
+454,2026-03-13,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,2,40.8,81.6
+455,2026-03-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,25,1.68,42
+456,2026-03-13,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",12,25,1.68,42
+457,2026-03-13,"Herbicida 1 L",Agroquímicos,"Administrador Demo",25,1,13,13
+458,2026-03-13,"Abono orgánico compost",Fertilizantes,"Carlos Vera",5,2,12.35,24.7
+459,2026-03-13,"Urea 46%",Fertilizantes,"Administrador Demo",14,1,33.6,33.6
+460,2026-03-14,"Cinta de goteo 100 m",Riego,"Carlos Vera",1,1,22.5,22.5
+461,2026-03-14,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",21,5,40.8,204
+462,2026-03-14,"Urea 46%",Fertilizantes,"Administrador Demo",13,1,33.6,33.6
+463,2026-03-14,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",25,3,40.8,122.4
+464,2026-03-14,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,10,1.68,16.8
+465,2026-03-14,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",1,10,1.68,16.8
+466,2026-03-14,"Insecticida 1 L",Agroquímicos,"Carlos Vera",25,1,16.25,16.25
+467,2026-03-14,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",18,2,71.3,142.6
+468,2026-03-14,"Machete 22 pulgadas",Herramientas,"María Quiñónez",19,1,8.78,8.78
+469,2026-03-14,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",1,25,1.68,42
+470,2026-03-16,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",19,1,18.2,18.2
+471,2026-03-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,10,1.68,16.8
+472,2026-03-16,"Urea 46%",Fertilizantes,"Carlos Vera",3,1,33.6,33.6
+473,2026-03-16,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",6,1,47.5,47.5
+474,2026-03-16,"Urea 46%",Fertilizantes,"María Quiñónez",21,1,33.6,33.6
+475,2026-03-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,10,1.68,16.8
+476,2026-03-16,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",24,10,1.68,16.8
+477,2026-03-16,"Herbicida 1 L",Agroquímicos,"María Quiñónez",25,1,13,13
+478,2026-03-17,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",1,1,40.8,40.8
+479,2026-03-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,20,1.68,33.6
+480,2026-03-17,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",24,1,18.2,18.2
+481,2026-03-17,"Aspersor de impacto",Riego,"María Quiñónez",15,1,9.75,9.75
+482,2026-03-17,"Urea 46%",Fertilizantes,"Carlos Vera",24,1,33.6,33.6
+483,2026-03-17,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,2,40.8,81.6
+484,2026-03-17,"Machete 22 pulgadas",Herramientas,"Administrador Demo",14,2,8.78,17.56
+485,2026-03-17,"Semilla de maíz híbrido",Semillas,"Carlos Vera",17,1,109.25,109.25
+486,2026-03-17,"Insecticida 1 L",Agroquímicos,"Carlos Vera",5,1,16.25,16.25
+487,2026-03-17,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,50,1.68,84
+488,2026-03-17,"Herbicida 1 L",Agroquímicos,"María Quiñónez",23,1,13,13
+489,2026-03-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,10,1.68,16.8
+490,2026-03-18,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",4,3,18.2,54.6
+491,2026-03-18,"Semilla de maíz híbrido",Semillas,"Carlos Vera",2,1,109.25,109.25
+492,2026-03-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,10,1.68,16.8
+493,2026-03-18,"Insecticida 1 L",Agroquímicos,"Carlos Vera",13,5,16.25,81.25
+494,2026-03-18,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",6,25,1.68,42
+495,2026-03-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,25,1.68,42
+496,2026-03-18,"Herbicida 1 L",Agroquímicos,"Carlos Vera",13,2,13,26
+497,2026-03-18,"Insecticida 1 L",Agroquímicos,"Administrador Demo",20,2,16.25,32.5
+498,2026-03-19,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,25,1.68,42
+499,2026-03-19,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",19,5,40.8,204
+500,2026-03-19,"Urea 46%",Fertilizantes,"Carlos Vera",23,3,33.6,100.8
+501,2026-03-19,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,50,1.68,84
+502,2026-03-20,"Abono orgánico compost",Fertilizantes,"Carlos Vera",6,1,12.35,12.35
+503,2026-03-20,"Machete 22 pulgadas",Herramientas,"María Quiñónez",25,2,8.78,17.56
+504,2026-03-20,"Herbicida 1 L",Agroquímicos,"María Quiñónez",2,3,13,39
+505,2026-03-20,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",18,1,71.3,71.3
+506,2026-03-20,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,50,1.68,84
+507,2026-03-20,"Herbicida 1 L",Agroquímicos,"Carlos Vera",4,1,13,13
+508,2026-03-20,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",25,50,1.68,84
+509,2026-03-20,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",1,2,40.8,81.6
+510,2026-03-21,"Herbicida 1 L",Agroquímicos,"María Quiñónez",8,1,13,13
+511,2026-03-21,"Herbicida 1 L",Agroquímicos,"Carlos Vera",14,3,13,39
+512,2026-03-21,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,20,1.68,33.6
+513,2026-03-21,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",5,50,1.68,84
+514,2026-03-21,"Urea 46%",Fertilizantes,"María Quiñónez",7,2,33.6,67.2
+515,2026-03-21,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",15,25,1.68,42
+516,2026-03-21,"Semilla de maíz híbrido",Semillas,"Carlos Vera",21,1,109.25,109.25
+517,2026-03-23,"Herbicida 1 L",Agroquímicos,"Carlos Vera",7,3,13,39
+518,2026-03-23,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",1,50,1.68,84
+519,2026-03-23,"Insecticida 1 L",Agroquímicos,"Carlos Vera",15,1,16.25,16.25
+520,2026-03-23,"Semilla de maíz híbrido",Semillas,"María Quiñónez",4,1,109.25,109.25
+521,2026-03-23,"Semilla de maíz híbrido",Semillas,"Administrador Demo",4,1,109.25,109.25
+522,2026-03-24,"Herbicida 1 L",Agroquímicos,"Carlos Vera",25,3,13,39
+523,2026-03-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,25,1.68,42
+524,2026-03-24,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",8,2,71.3,142.6
+525,2026-03-24,"Abono orgánico compost",Fertilizantes,"Carlos Vera",14,1,12.35,12.35
+526,2026-03-24,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",24,3,40.8,122.4
+527,2026-03-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",8,25,1.68,42
+528,2026-03-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,25,1.68,42
+529,2026-03-24,"Urea 46%",Fertilizantes,"María Quiñónez",8,1,33.6,33.6
+530,2026-03-24,"Urea 46%",Fertilizantes,"María Quiñónez",1,2,33.6,67.2
+531,2026-03-24,"Herbicida 1 L",Agroquímicos,"María Quiñónez",7,2,13,26
+532,2026-03-24,"Urea 46%",Fertilizantes,"Carlos Vera",6,2,33.6,67.2
+533,2026-03-25,"Urea 46%",Fertilizantes,"Administrador Demo",20,5,33.6,168
+534,2026-03-25,"Insecticida 1 L",Agroquímicos,"Carlos Vera",9,1,16.25,16.25
+535,2026-03-25,"Urea 46%",Fertilizantes,"Carlos Vera",13,1,33.6,33.6
+536,2026-03-25,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",9,3,40.8,122.4
+537,2026-03-25,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",7,25,1.68,42
+538,2026-03-25,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",25,20,1.68,33.6
+539,2026-03-25,"Insecticida 1 L",Agroquímicos,"Administrador Demo",13,5,16.25,81.25
+540,2026-03-26,"Urea 46%",Fertilizantes,"Carlos Vera",1,1,33.6,33.6
+541,2026-03-26,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",6,10,1.68,16.8
+542,2026-03-26,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,20,1.68,33.6
+543,2026-03-26,"Herbicida 1 L",Agroquímicos,"María Quiñónez",22,2,13,26
+544,2026-03-26,"Insecticida 1 L",Agroquímicos,"Administrador Demo",18,1,16.25,16.25
+545,2026-03-26,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",3,1,71.3,71.3
+546,2026-03-27,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,50,1.68,84
+547,2026-03-27,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,25,1.68,42
+548,2026-03-27,"Urea 46%",Fertilizantes,"María Quiñónez",6,2,33.6,67.2
+549,2026-03-27,"Semilla de maíz híbrido",Semillas,"Carlos Vera",16,1,109.25,109.25
+550,2026-03-27,"Tijera de podar",Herramientas,"María Quiñónez",12,1,10.8,10.8
+551,2026-03-27,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",4,3,71.3,213.9
+552,2026-03-27,"Urea 46%",Fertilizantes,"Administrador Demo",11,1,33.6,33.6
+553,2026-03-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",11,25,1.68,42
+554,2026-03-27,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",14,5,40.8,204
+555,2026-03-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",12,50,1.68,84
+556,2026-03-28,"Urea 46%",Fertilizantes,"María Quiñónez",21,1,33.6,33.6
+557,2026-03-28,"Semilla de maíz híbrido",Semillas,"María Quiñónez",13,1,109.25,109.25
+558,2026-03-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",21,10,1.68,16.8
+559,2026-03-28,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",25,1,40.8,40.8
+560,2026-03-28,"Insecticida 1 L",Agroquímicos,"Administrador Demo",23,1,16.25,16.25
+561,2026-03-28,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",11,3,18.2,54.6
+562,2026-03-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,20,1.68,33.6
+563,2026-03-28,"Abono orgánico compost",Fertilizantes,"María Quiñónez",20,2,12.35,24.7
+564,2026-03-30,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",12,25,1.68,42
+565,2026-03-30,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",2,1,71.3,71.3
+566,2026-03-30,"Cinta de goteo 100 m",Riego,"María Quiñónez",1,1,22.5,22.5
+567,2026-03-30,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",13,3,40.8,122.4
+568,2026-03-30,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",15,1,40.8,40.8
+569,2026-03-30,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,20,1.68,33.6
+570,2026-03-30,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",10,1,71.3,71.3
+571,2026-03-30,"Insecticida 1 L",Agroquímicos,"María Quiñónez",13,1,16.25,16.25
+572,2026-03-30,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",3,3,18.2,54.6
+573,2026-03-30,"Urea 46%",Fertilizantes,"Carlos Vera",7,1,33.6,33.6
+574,2026-03-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",18,10,1.68,16.8
+575,2026-03-30,"Herbicida 1 L",Agroquímicos,"María Quiñónez",18,2,13,26
+576,2026-03-30,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",18,1,18.2,18.2
+577,2026-03-30,"Abono orgánico compost",Fertilizantes,"Administrador Demo",14,3,12.35,37.05
+578,2026-03-30,"Urea 46%",Fertilizantes,"María Quiñónez",12,2,33.6,67.2
+579,2026-03-31,"Urea 46%",Fertilizantes,"María Quiñónez",6,3,33.6,100.8
+580,2026-03-31,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,20,1.68,33.6
+581,2026-03-31,"Urea 46%",Fertilizantes,"María Quiñónez",17,1,33.6,33.6
+582,2026-03-31,"Semilla de maíz híbrido",Semillas,"Carlos Vera",2,1,109.25,109.25
+583,2026-03-31,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",24,2,40.8,81.6
+584,2026-03-31,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,25,1.68,42
+585,2026-03-31,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",12,20,1.68,33.6
+586,2026-03-31,"Insecticida 1 L",Agroquímicos,"Carlos Vera",13,1,16.25,16.25
+587,2026-04-01,"Abono orgánico compost",Fertilizantes,"María Quiñónez",6,2,12.35,24.7
+588,2026-04-01,"Semilla de maíz híbrido",Semillas,"Carlos Vera",14,1,109.25,109.25
+589,2026-04-01,"Semilla de maíz híbrido",Semillas,"Carlos Vera",5,1,109.25,109.25
+590,2026-04-01,"Herbicida 1 L",Agroquímicos,"María Quiñónez",6,1,13,13
+591,2026-04-01,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",10,5,18.2,91
+592,2026-04-01,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,20,1.68,33.6
+593,2026-04-01,"Machete 22 pulgadas",Herramientas,"Carlos Vera",5,1,8.78,8.78
+594,2026-04-01,"Urea 46%",Fertilizantes,"Carlos Vera",7,2,33.6,67.2
+595,2026-04-01,"Urea 46%",Fertilizantes,"María Quiñónez",15,2,33.6,67.2
+596,2026-04-01,"Urea 46%",Fertilizantes,"Carlos Vera",14,2,33.6,67.2
+597,2026-04-01,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",16,2,18.2,36.4
+598,2026-04-01,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,25,1.68,42
+599,2026-04-02,"Insecticida 1 L",Agroquímicos,"María Quiñónez",8,3,16.25,48.75
+600,2026-04-02,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",12,5,18.2,91
+601,2026-04-02,"Urea 46%",Fertilizantes,"María Quiñónez",22,2,33.6,67.2
+603,2026-04-02,"Cinta de goteo 100 m",Riego,"María Quiñónez",15,1,22.5,22.5
+602,2026-04-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",25,25,1.68,42
+604,2026-04-02,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",1,10,1.68,16.8
+605,2026-04-02,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,50,1.68,84
+606,2026-04-02,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",20,5,18.2,91
+607,2026-04-03,"Machete 22 pulgadas",Herramientas,"Carlos Vera",21,1,8.78,8.78
+608,2026-04-03,"Insecticida 1 L",Agroquímicos,"Carlos Vera",15,1,16.25,16.25
+609,2026-04-03,"Herbicida 1 L",Agroquímicos,"María Quiñónez",13,1,13,13
+610,2026-04-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,50,1.68,84
+611,2026-04-03,"Semilla de maíz híbrido",Semillas,"María Quiñónez",14,1,109.25,109.25
+612,2026-04-03,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",6,20,1.68,33.6
+613,2026-04-03,"Abono orgánico compost",Fertilizantes,"María Quiñónez",10,5,12.35,61.75
+614,2026-04-03,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",8,1,40.8,40.8
+615,2026-04-03,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",17,25,1.68,42
+616,2026-04-04,"Urea 46%",Fertilizantes,"Carlos Vera",9,2,33.6,67.2
+617,2026-04-04,"Herbicida 1 L",Agroquímicos,"Carlos Vera",22,1,13,13
+618,2026-04-04,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",1,2,40.8,81.6
+619,2026-04-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,20,1.68,33.6
+620,2026-04-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,10,1.68,16.8
+621,2026-04-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,25,1.68,42
+622,2026-04-04,"Urea 46%",Fertilizantes,"María Quiñónez",10,1,33.6,33.6
+623,2026-04-04,"Insecticida 1 L",Agroquímicos,"María Quiñónez",15,2,16.25,32.5
+624,2026-04-04,"Herbicida 1 L",Agroquímicos,"Carlos Vera",3,1,13,13
+625,2026-04-04,"Cinta de goteo 100 m",Riego,"María Quiñónez",13,1,22.5,22.5
+626,2026-04-04,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",4,5,71.3,356.5
+627,2026-04-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+628,2026-04-06,"Herbicida 1 L",Agroquímicos,"María Quiñónez",25,2,13,26
+629,2026-04-06,"Urea 46%",Fertilizantes,"Carlos Vera",18,5,33.6,168
+630,2026-04-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",24,10,1.68,16.8
+631,2026-04-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",12,25,1.68,42
+632,2026-04-06,"Urea 46%",Fertilizantes,"María Quiñónez",2,1,33.6,33.6
+633,2026-04-06,"Semilla de maíz híbrido",Semillas,"Carlos Vera",15,1,109.25,109.25
+634,2026-04-07,"Cinta de goteo 100 m",Riego,"Administrador Demo",14,1,22.5,22.5
+635,2026-04-07,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",19,5,40.8,204
+636,2026-04-07,"Urea 46%",Fertilizantes,"Administrador Demo",12,2,33.6,67.2
+637,2026-04-07,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,25,1.68,42
+638,2026-04-07,"Insecticida 1 L",Agroquímicos,"Administrador Demo",3,1,16.25,16.25
+639,2026-04-07,"Herbicida 1 L",Agroquímicos,"Carlos Vera",18,5,13,65
+640,2026-04-07,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",14,2,18.2,36.4
+641,2026-04-07,"Urea 46%",Fertilizantes,"María Quiñónez",6,3,33.6,100.8
+642,2026-04-07,"Machete 22 pulgadas",Herramientas,"Carlos Vera",7,2,8.78,17.56
+643,2026-04-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,50,1.68,84
+644,2026-04-08,"Insecticida 1 L",Agroquímicos,"Administrador Demo",8,5,16.25,81.25
+645,2026-04-08,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",3,1,40.8,40.8
+646,2026-04-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",16,20,1.68,33.6
+647,2026-04-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,10,1.68,16.8
+648,2026-04-08,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",16,2,71.3,142.6
+649,2026-04-08,"Urea 46%",Fertilizantes,"María Quiñónez",10,2,33.6,67.2
+650,2026-04-08,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",22,2,18.2,36.4
+651,2026-04-08,"Insecticida 1 L",Agroquímicos,"María Quiñónez",12,1,16.25,16.25
+652,2026-04-08,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,20,1.68,33.6
+653,2026-04-08,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",5,1,40.8,40.8
+654,2026-04-08,"Abono orgánico compost",Fertilizantes,"Carlos Vera",9,2,12.35,24.7
+655,2026-04-08,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",1,1,18.2,18.2
+656,2026-04-08,"Herbicida 1 L",Agroquímicos,"María Quiñónez",19,1,13,13
+657,2026-04-09,"Abono orgánico compost",Fertilizantes,"Carlos Vera",20,2,12.35,24.7
+658,2026-04-09,"Machete 22 pulgadas",Herramientas,"Carlos Vera",10,5,8.78,43.9
+659,2026-04-09,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",6,2,71.3,142.6
+660,2026-04-09,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",17,10,1.68,16.8
+661,2026-04-09,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",16,10,1.68,16.8
+662,2026-04-09,"Tijera de podar",Herramientas,"Carlos Vera",15,1,10.8,10.8
+663,2026-04-09,"Urea 46%",Fertilizantes,"Carlos Vera",13,1,33.6,33.6
+664,2026-04-09,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",16,1,40.8,40.8
+665,2026-04-10,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",25,50,1.68,84
+666,2026-04-10,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",11,1,71.3,71.3
+667,2026-04-10,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",9,5,71.3,356.5
+668,2026-04-10,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",10,1,18.2,18.2
+669,2026-04-10,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",16,2,18.2,36.4
+670,2026-04-11,"Urea 46%",Fertilizantes,"María Quiñónez",17,2,33.6,67.2
+671,2026-04-11,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,50,1.68,84
+672,2026-04-11,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",16,1,18.2,18.2
+673,2026-04-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,50,1.68,84
+674,2026-04-11,"Urea 46%",Fertilizantes,"Carlos Vera",13,3,33.6,100.8
+675,2026-04-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",25,20,1.68,33.6
+676,2026-04-13,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,25,1.68,42
+677,2026-04-13,"Insecticida 1 L",Agroquímicos,"María Quiñónez",25,1,16.25,16.25
+678,2026-04-13,"Abono orgánico compost",Fertilizantes,"Administrador Demo",23,5,12.35,61.75
+679,2026-04-13,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",15,50,1.68,84
+680,2026-04-13,"Urea 46%",Fertilizantes,"María Quiñónez",3,2,33.6,67.2
+681,2026-04-13,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",5,1,18.2,18.2
+682,2026-04-13,"Urea 46%",Fertilizantes,"María Quiñónez",4,1,33.6,33.6
+683,2026-04-13,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,10,1.68,16.8
+684,2026-04-13,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",1,1,18.2,18.2
+685,2026-04-13,"Herbicida 1 L",Agroquímicos,"María Quiñónez",15,2,13,26
+686,2026-04-14,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+687,2026-04-14,"Machete 22 pulgadas",Herramientas,"María Quiñónez",14,1,8.78,8.78
+688,2026-04-14,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",3,50,1.68,84
+689,2026-04-14,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,10,1.68,16.8
+690,2026-04-15,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",15,10,1.68,16.8
+691,2026-04-15,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",8,20,1.68,33.6
+692,2026-04-15,"Herbicida 1 L",Agroquímicos,"María Quiñónez",9,5,13,65
+693,2026-04-15,"Machete 22 pulgadas",Herramientas,"Carlos Vera",6,2,8.78,17.56
+694,2026-04-15,"Abono orgánico compost",Fertilizantes,"María Quiñónez",15,3,12.35,37.05
+695,2026-04-15,"Machete 22 pulgadas",Herramientas,"María Quiñónez",23,2,8.78,17.56
+696,2026-04-15,"Urea 46%",Fertilizantes,"Administrador Demo",19,1,33.6,33.6
+697,2026-04-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",25,20,1.68,33.6
+698,2026-04-15,"Urea 46%",Fertilizantes,"Carlos Vera",6,2,33.6,67.2
+699,2026-04-16,"Insecticida 1 L",Agroquímicos,"María Quiñónez",14,2,16.25,32.5
+700,2026-04-16,"Herbicida 1 L",Agroquímicos,"Carlos Vera",15,3,13,39
+701,2026-04-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,25,1.68,42
+702,2026-04-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+703,2026-04-16,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",23,1,71.3,71.3
+704,2026-04-16,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",13,1,18.2,18.2
+705,2026-04-16,"Tijera de podar",Herramientas,"María Quiñónez",8,1,10.8,10.8
+706,2026-04-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",14,20,1.68,33.6
+707,2026-04-17,"Urea 46%",Fertilizantes,"María Quiñónez",14,1,33.6,33.6
+708,2026-04-17,"Insecticida 1 L",Agroquímicos,"María Quiñónez",21,1,16.25,16.25
+709,2026-04-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,20,1.68,33.6
+710,2026-04-17,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",12,1,40.8,40.8
+711,2026-04-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,20,1.68,33.6
+712,2026-04-17,"Herbicida 1 L",Agroquímicos,"María Quiñónez",8,1,13,13
+713,2026-04-17,"Insecticida 1 L",Agroquímicos,"Administrador Demo",16,1,16.25,16.25
+714,2026-04-18,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",9,1,40.8,40.8
+715,2026-04-18,"Manguera 1/2 pulgada 50 m",Riego,"Administrador Demo",14,1,27.5,27.5
+716,2026-04-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,20,1.68,33.6
+717,2026-04-18,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",5,1,18.2,18.2
+718,2026-04-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",10,25,1.68,42
+719,2026-04-20,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,50,1.68,84
+720,2026-04-20,"Urea 46%",Fertilizantes,"María Quiñónez",15,2,33.6,67.2
+721,2026-04-20,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",16,1,40.8,40.8
+722,2026-04-20,"Herbicida 1 L",Agroquímicos,"Carlos Vera",2,2,13,26
+723,2026-04-20,"Urea 46%",Fertilizantes,"María Quiñónez",11,3,33.6,100.8
+724,2026-04-20,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,50,1.68,84
+725,2026-04-20,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",14,1,40.8,40.8
+726,2026-04-20,"Urea 46%",Fertilizantes,"Carlos Vera",2,2,33.6,67.2
+727,2026-04-21,"Abono orgánico compost",Fertilizantes,"María Quiñónez",6,1,12.35,12.35
+728,2026-04-21,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,25,1.68,42
+729,2026-04-21,"Urea 46%",Fertilizantes,"María Quiñónez",10,1,33.6,33.6
+730,2026-04-21,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",20,3,18.2,54.6
+731,2026-04-21,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,25,1.68,42
+732,2026-04-21,"Manguera 1/2 pulgada 50 m",Riego,"Carlos Vera",18,1,27.5,27.5
+733,2026-04-21,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",17,1,18.2,18.2
+734,2026-04-21,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",3,1,47.5,47.5
+735,2026-04-21,"Machete 22 pulgadas",Herramientas,"María Quiñónez",22,5,8.78,43.9
+736,2026-04-21,"Semilla de maíz híbrido",Semillas,"Administrador Demo",21,1,109.25,109.25
+737,2026-04-21,"Abono orgánico compost",Fertilizantes,"Administrador Demo",7,2,12.35,24.7
+738,2026-04-21,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",11,10,1.68,16.8
+739,2026-04-21,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",10,3,40.8,122.4
+740,2026-04-22,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",14,20,1.68,33.6
+741,2026-04-22,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",15,1,71.3,71.3
+742,2026-04-22,"Urea 46%",Fertilizantes,"Carlos Vera",1,2,33.6,67.2
+743,2026-04-22,"Insecticida 1 L",Agroquímicos,"Administrador Demo",25,2,16.25,32.5
+744,2026-04-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",21,25,1.68,42
+745,2026-04-23,"Aspersor de impacto",Riego,"Carlos Vera",20,1,9.75,9.75
+746,2026-04-23,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",3,20,1.68,33.6
+747,2026-04-23,"Herbicida 1 L",Agroquímicos,"Carlos Vera",20,1,13,13
+748,2026-04-23,"Urea 46%",Fertilizantes,"Carlos Vera",2,5,33.6,168
+749,2026-04-23,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,25,1.68,42
+750,2026-04-23,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",24,2,40.8,81.6
+751,2026-04-23,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",2,2,71.3,142.6
+752,2026-04-23,"Abono orgánico compost",Fertilizantes,"Carlos Vera",2,2,12.35,24.7
+753,2026-04-23,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",6,3,71.3,213.9
+754,2026-04-23,"Urea 46%",Fertilizantes,"María Quiñónez",5,5,33.6,168
+755,2026-04-24,"Herbicida 1 L",Agroquímicos,"Carlos Vera",2,2,13,26
+756,2026-04-24,"Insecticida 1 L",Agroquímicos,"María Quiñónez",18,2,16.25,32.5
+757,2026-04-24,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",10,3,18.2,54.6
+758,2026-04-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",18,25,1.68,42
+759,2026-04-25,"Herbicida 1 L",Agroquímicos,"Carlos Vera",10,1,13,13
+760,2026-04-25,"Tijera de podar",Herramientas,"Carlos Vera",17,1,10.8,10.8
+761,2026-04-25,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",18,1,71.3,71.3
+762,2026-04-25,"Insecticida 1 L",Agroquímicos,"Carlos Vera",20,2,16.25,32.5
+763,2026-04-25,"Machete 22 pulgadas",Herramientas,"Carlos Vera",3,5,8.78,43.9
+764,2026-04-25,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",19,50,1.68,84
+765,2026-04-25,"Aspersor de impacto",Riego,"María Quiñónez",21,1,9.75,9.75
+766,2026-04-25,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",6,10,1.68,16.8
+767,2026-04-25,"Urea 46%",Fertilizantes,"Carlos Vera",6,1,33.6,33.6
+768,2026-04-25,"Herbicida 1 L",Agroquímicos,"Administrador Demo",15,5,13,65
+769,2026-04-25,"Herbicida 1 L",Agroquímicos,"Carlos Vera",1,2,13,26
+770,2026-04-25,"Semilla de maíz híbrido",Semillas,"Administrador Demo",20,1,109.25,109.25
+771,2026-04-27,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,50,1.68,84
+772,2026-04-27,"Insecticida 1 L",Agroquímicos,"María Quiñónez",4,1,16.25,16.25
+773,2026-04-27,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",2,20,1.68,33.6
+774,2026-04-27,"Urea 46%",Fertilizantes,"Administrador Demo",13,1,33.6,33.6
+775,2026-04-27,"Urea 46%",Fertilizantes,"Carlos Vera",15,5,33.6,168
+776,2026-04-27,"Herbicida 1 L",Agroquímicos,"María Quiñónez",25,2,13,26
+777,2026-04-27,"Cinta de goteo 100 m",Riego,"María Quiñónez",19,1,22.5,22.5
+778,2026-04-27,"Abono orgánico compost",Fertilizantes,"Administrador Demo",20,3,12.35,37.05
+779,2026-04-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,25,1.68,42
+780,2026-04-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,20,1.68,33.6
+781,2026-04-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,25,1.68,42
+782,2026-04-28,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",10,3,18.2,54.6
+783,2026-04-28,"Urea 46%",Fertilizantes,"Carlos Vera",19,1,33.6,33.6
+784,2026-04-28,"Semilla de maíz híbrido",Semillas,"Administrador Demo",22,1,109.25,109.25
+785,2026-04-28,"Abono orgánico compost",Fertilizantes,"Administrador Demo",5,1,12.35,12.35
+786,2026-04-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",16,25,1.68,42
+787,2026-04-28,"Herbicida 1 L",Agroquímicos,"Administrador Demo",24,1,13,13
+788,2026-04-29,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,50,1.68,84
+789,2026-04-29,"Herbicida 1 L",Agroquímicos,"Carlos Vera",10,5,13,65
+790,2026-04-29,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",8,25,1.68,42
+791,2026-04-29,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",9,5,40.8,204
+792,2026-04-29,"Urea 46%",Fertilizantes,"Administrador Demo",2,1,33.6,33.6
+793,2026-04-29,"Abono orgánico compost",Fertilizantes,"María Quiñónez",4,3,12.35,37.05
+794,2026-04-29,"Semilla de maíz híbrido",Semillas,"María Quiñónez",7,1,109.25,109.25
+795,2026-04-29,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",1,2,18.2,36.4
+796,2026-04-29,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",17,1,40.8,40.8
+797,2026-04-30,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",12,2,40.8,81.6
+798,2026-04-30,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",14,1,47.5,47.5
+799,2026-04-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",8,10,1.68,16.8
+800,2026-04-30,"Insecticida 1 L",Agroquímicos,"Administrador Demo",7,2,16.25,32.5
+801,2026-04-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,20,1.68,33.6
+802,2026-04-30,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",11,1,18.2,18.2
+803,2026-04-30,"Machete 22 pulgadas",Herramientas,"María Quiñónez",21,3,8.78,26.34
+804,2026-04-30,"Urea 46%",Fertilizantes,"Carlos Vera",23,1,33.6,33.6
+805,2026-04-30,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,10,1.68,16.8
+806,2026-05-01,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",11,3,18.2,54.6
+807,2026-05-01,"Urea 46%",Fertilizantes,"Carlos Vera",7,5,33.6,168
+808,2026-05-01,"Insecticida 1 L",Agroquímicos,"María Quiñónez",6,1,16.25,16.25
+809,2026-05-01,"Semilla de maíz híbrido",Semillas,"Carlos Vera",1,1,109.25,109.25
+810,2026-05-01,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,50,1.68,84
+811,2026-05-01,"Insecticida 1 L",Agroquímicos,"María Quiñónez",1,1,16.25,16.25
+812,2026-05-01,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,50,1.68,84
+813,2026-05-02,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",25,1,71.3,71.3
+814,2026-05-02,"Semilla de maíz híbrido",Semillas,"Carlos Vera",6,1,109.25,109.25
+815,2026-05-02,"Insecticida 1 L",Agroquímicos,"María Quiñónez",18,3,16.25,48.75
+816,2026-05-02,"Abono orgánico compost",Fertilizantes,"María Quiñónez",22,5,12.35,61.75
+817,2026-05-02,"Tijera de podar",Herramientas,"Carlos Vera",20,1,10.8,10.8
+818,2026-05-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,25,1.68,42
+819,2026-05-02,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",14,10,1.68,16.8
+820,2026-05-02,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",12,1,40.8,40.8
+821,2026-05-04,"Semilla de maíz híbrido",Semillas,"María Quiñónez",13,1,109.25,109.25
+822,2026-05-04,"Herbicida 1 L",Agroquímicos,"Administrador Demo",22,1,13,13
+823,2026-05-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,10,1.68,16.8
+824,2026-05-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",15,50,1.68,84
+825,2026-05-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",3,25,1.68,42
+826,2026-05-05,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",13,2,18.2,36.4
+827,2026-05-05,"Abono orgánico compost",Fertilizantes,"María Quiñónez",22,1,12.35,12.35
+828,2026-05-05,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",5,2,40.8,81.6
+829,2026-05-05,"Semilla de maíz híbrido",Semillas,"Carlos Vera",19,1,109.25,109.25
+830,2026-05-05,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",11,20,1.68,33.6
+831,2026-05-05,"Herbicida 1 L",Agroquímicos,"María Quiñónez",10,5,13,65
+832,2026-05-05,"Machete 22 pulgadas",Herramientas,"María Quiñónez",15,5,8.78,43.9
+833,2026-05-05,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",15,2,18.2,36.4
+834,2026-05-05,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",13,50,1.68,84
+835,2026-05-05,"Insecticida 1 L",Agroquímicos,"Carlos Vera",9,1,16.25,16.25
+836,2026-05-05,"Urea 46%",Fertilizantes,"María Quiñónez",4,1,33.6,33.6
+837,2026-05-06,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",20,20,1.68,33.6
+838,2026-05-06,"Machete 22 pulgadas",Herramientas,"Administrador Demo",13,5,8.78,43.9
+839,2026-05-06,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",23,2,18.2,36.4
+840,2026-05-06,"Herbicida 1 L",Agroquímicos,"María Quiñónez",7,2,13,26
+841,2026-05-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+842,2026-05-07,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",14,25,1.68,42
+843,2026-05-07,"Urea 46%",Fertilizantes,"Administrador Demo",25,1,33.6,33.6
+844,2026-05-07,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",3,1,71.3,71.3
+845,2026-05-08,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",1,1,18.2,18.2
+846,2026-05-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,20,1.68,33.6
+847,2026-05-08,"Herbicida 1 L",Agroquímicos,"Carlos Vera",13,5,13,65
+848,2026-05-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,25,1.68,42
+849,2026-05-09,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",18,2,71.3,142.6
+850,2026-05-09,"Aspersor de impacto",Riego,"Administrador Demo",13,1,9.75,9.75
+851,2026-05-09,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",18,1,18.2,18.2
+852,2026-05-09,"Insecticida 1 L",Agroquímicos,"Carlos Vera",14,1,16.25,16.25
+853,2026-05-09,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,10,1.68,16.8
+854,2026-05-09,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,50,1.68,84
+855,2026-05-09,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",15,2,40.8,81.6
+856,2026-05-09,"Urea 46%",Fertilizantes,"Administrador Demo",16,1,33.6,33.6
+857,2026-05-09,"Tijera de podar",Herramientas,"María Quiñónez",19,1,10.8,10.8
+858,2026-05-09,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",24,2,40.8,81.6
+859,2026-05-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",25,25,1.68,42
+860,2026-05-11,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",14,3,18.2,54.6
+861,2026-05-12,"Abono orgánico compost",Fertilizantes,"Carlos Vera",8,1,12.35,12.35
+862,2026-05-12,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",17,10,1.68,16.8
+864,2026-05-12,"Insecticida 1 L",Agroquímicos,"Administrador Demo",15,5,16.25,81.25
+863,2026-05-12,"Urea 46%",Fertilizantes,"María Quiñónez",5,1,33.6,33.6
+865,2026-05-12,"Machete 22 pulgadas",Herramientas,"Carlos Vera",13,5,8.78,43.9
+866,2026-05-12,"Herbicida 1 L",Agroquímicos,"María Quiñónez",20,1,13,13
+867,2026-05-12,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+868,2026-05-12,"Herbicida 1 L",Agroquímicos,"María Quiñónez",7,3,13,39
+869,2026-05-13,"Machete 22 pulgadas",Herramientas,"Carlos Vera",2,1,8.78,8.78
+870,2026-05-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",24,20,1.68,33.6
+871,2026-05-13,"Aspersor de impacto",Riego,"María Quiñónez",14,1,9.75,9.75
+872,2026-05-13,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",7,3,40.8,122.4
+873,2026-05-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,50,1.68,84
+874,2026-05-13,"Semilla de maíz híbrido",Semillas,"Carlos Vera",24,1,109.25,109.25
+875,2026-05-13,"Urea 46%",Fertilizantes,"María Quiñónez",7,3,33.6,100.8
+876,2026-05-14,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",10,50,1.68,84
+877,2026-05-14,"Urea 46%",Fertilizantes,"Carlos Vera",24,3,33.6,100.8
+878,2026-05-14,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",6,1,47.5,47.5
+879,2026-05-14,"Cinta de goteo 100 m",Riego,"Administrador Demo",20,1,22.5,22.5
+880,2026-05-14,"Urea 46%",Fertilizantes,"Administrador Demo",6,3,33.6,100.8
+881,2026-05-14,"Insecticida 1 L",Agroquímicos,"Carlos Vera",4,1,16.25,16.25
+882,2026-05-15,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",25,5,71.3,356.5
+883,2026-05-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",16,20,1.68,33.6
+884,2026-05-15,"Urea 46%",Fertilizantes,"María Quiñónez",24,5,33.6,168
+885,2026-05-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",1,50,1.68,84
+886,2026-05-16,"Aspersor de impacto",Riego,"Carlos Vera",9,1,9.75,9.75
+887,2026-05-16,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",11,1,40.8,40.8
+888,2026-05-16,"Urea 46%",Fertilizantes,"Carlos Vera",21,1,33.6,33.6
+889,2026-05-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,10,1.68,16.8
+890,2026-05-18,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",11,10,1.68,16.8
+891,2026-05-18,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,10,1.68,16.8
+892,2026-05-18,"Abono orgánico compost",Fertilizantes,"Administrador Demo",20,2,12.35,24.7
+893,2026-05-18,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",10,5,18.2,91
+894,2026-05-19,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,25,1.68,42
+895,2026-05-19,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,20,1.68,33.6
+896,2026-05-19,"Urea 46%",Fertilizantes,"María Quiñónez",12,3,33.6,100.8
+897,2026-05-20,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",7,50,1.68,84
+898,2026-05-20,"Herbicida 1 L",Agroquímicos,"Carlos Vera",21,1,13,13
+899,2026-05-20,"Abono orgánico compost",Fertilizantes,"Carlos Vera",5,5,12.35,61.75
+900,2026-05-20,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",19,1,40.8,40.8
+901,2026-05-21,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",1,10,1.68,16.8
+902,2026-05-22,"Abono orgánico compost",Fertilizantes,"María Quiñónez",15,1,12.35,12.35
+903,2026-05-22,"Machete 22 pulgadas",Herramientas,"María Quiñónez",17,1,8.78,8.78
+904,2026-05-22,"Urea 46%",Fertilizantes,"María Quiñónez",11,1,33.6,33.6
+905,2026-05-22,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",24,10,1.68,16.8
+906,2026-05-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",18,10,1.68,16.8
+907,2026-05-23,"Bomba de fumigar 20 L",Herramientas,"María Quiñónez",9,1,47.5,47.5
+908,2026-05-23,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",9,20,1.68,33.6
+909,2026-05-23,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",1,25,1.68,42
+910,2026-05-23,"Machete 22 pulgadas",Herramientas,"Carlos Vera",12,1,8.78,8.78
+911,2026-05-25,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,25,1.68,42
+912,2026-05-25,"Herbicida 1 L",Agroquímicos,"María Quiñónez",8,5,13,65
+913,2026-05-25,"Urea 46%",Fertilizantes,"Administrador Demo",10,2,33.6,67.2
+914,2026-05-26,"Herbicida 1 L",Agroquímicos,"Administrador Demo",3,2,13,26
+915,2026-05-26,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,20,1.68,33.6
+916,2026-05-26,"Abono orgánico compost",Fertilizantes,"Administrador Demo",16,2,12.35,24.7
+917,2026-05-26,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",21,5,71.3,356.5
+918,2026-05-26,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",23,25,1.68,42
+919,2026-05-26,"Herbicida 1 L",Agroquímicos,"María Quiñónez",21,2,13,26
+920,2026-05-26,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,20,1.68,33.6
+921,2026-05-26,"Insecticida 1 L",Agroquímicos,"Administrador Demo",21,1,16.25,16.25
+922,2026-05-27,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",24,1,40.8,40.8
+923,2026-05-27,"Aspersor de impacto",Riego,"Carlos Vera",20,1,9.75,9.75
+924,2026-05-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,25,1.68,42
+925,2026-05-27,"Cinta de goteo 100 m",Riego,"Administrador Demo",14,1,22.5,22.5
+926,2026-05-27,"Urea 46%",Fertilizantes,"Carlos Vera",17,1,33.6,33.6
+927,2026-05-28,"Insecticida 1 L",Agroquímicos,"Carlos Vera",20,3,16.25,48.75
+928,2026-05-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,25,1.68,42
+929,2026-05-28,"Machete 22 pulgadas",Herramientas,"Carlos Vera",10,5,8.78,43.9
+930,2026-05-28,"Herbicida 1 L",Agroquímicos,"María Quiñónez",3,1,13,13
+931,2026-05-28,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",16,5,18.2,91
+932,2026-05-29,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,20,1.68,33.6
+933,2026-05-29,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,25,1.68,42
+934,2026-05-29,"Urea 46%",Fertilizantes,"María Quiñónez",1,1,33.6,33.6
+935,2026-05-29,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",2,2,40.8,81.6
+936,2026-05-29,"Insecticida 1 L",Agroquímicos,"Carlos Vera",6,1,16.25,16.25
+937,2026-05-29,"Machete 22 pulgadas",Herramientas,"Carlos Vera",22,1,8.78,8.78
+938,2026-05-30,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",4,2,40.8,81.6
+939,2026-05-30,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",10,25,1.68,42
+940,2026-05-30,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",19,3,18.2,54.6
+941,2026-05-30,"Urea 46%",Fertilizantes,"María Quiñónez",8,3,33.6,100.8
+942,2026-06-01,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",3,50,1.68,84
+943,2026-06-01,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",5,50,1.68,84
+944,2026-06-02,"Abono orgánico compost",Fertilizantes,"María Quiñónez",8,2,12.35,24.7
+945,2026-06-02,"Herbicida 1 L",Agroquímicos,"Carlos Vera",8,2,13,26
+946,2026-06-02,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",21,1,40.8,40.8
+947,2026-06-02,"Machete 22 pulgadas",Herramientas,"Carlos Vera",7,2,8.78,17.56
+948,2026-06-02,"Urea 46%",Fertilizantes,"María Quiñónez",23,1,33.6,33.6
+949,2026-06-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,20,1.68,33.6
+950,2026-06-02,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",22,5,40.8,204
+951,2026-06-02,"Machete 22 pulgadas",Herramientas,"Carlos Vera",21,2,8.78,17.56
+953,2026-06-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,20,1.68,33.6
+952,2026-06-03,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",13,10,1.68,16.8
+954,2026-06-03,"Insecticida 1 L",Agroquímicos,"María Quiñónez",2,2,16.25,32.5
+955,2026-06-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,25,1.68,42
+956,2026-06-04,"Urea 46%",Fertilizantes,"Administrador Demo",17,1,33.6,33.6
+957,2026-06-04,"Abono orgánico compost",Fertilizantes,"María Quiñónez",8,1,12.35,12.35
+958,2026-06-04,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",4,5,71.3,356.5
+959,2026-06-04,"Semilla de maíz híbrido",Semillas,"María Quiñónez",11,1,109.25,109.25
+960,2026-06-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,25,1.68,42
+961,2026-06-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,25,1.68,42
+962,2026-06-04,"Herbicida 1 L",Agroquímicos,"María Quiñónez",3,1,13,13
+963,2026-06-05,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,20,1.68,33.6
+964,2026-06-05,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",12,20,1.68,33.6
+965,2026-06-05,"Urea 46%",Fertilizantes,"Carlos Vera",19,5,33.6,168
+966,2026-06-05,"Insecticida 1 L",Agroquímicos,"Administrador Demo",19,1,16.25,16.25
+967,2026-06-06,"Machete 22 pulgadas",Herramientas,"Administrador Demo",4,1,8.78,8.78
+968,2026-06-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,25,1.68,42
+969,2026-06-06,"Urea 46%",Fertilizantes,"Administrador Demo",9,5,33.6,168
+970,2026-06-06,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",15,50,1.68,84
+971,2026-06-06,"Cinta de goteo 100 m",Riego,"Carlos Vera",10,1,22.5,22.5
+972,2026-06-06,"Herbicida 1 L",Agroquímicos,"María Quiñónez",17,1,13,13
+973,2026-06-08,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",13,5,71.3,356.5
+974,2026-06-08,"Urea 46%",Fertilizantes,"Carlos Vera",4,3,33.6,100.8
+975,2026-06-08,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",15,10,1.68,16.8
+976,2026-06-08,"Herbicida 1 L",Agroquímicos,"María Quiñónez",5,2,13,26
+977,2026-06-08,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,50,1.68,84
+978,2026-06-08,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",23,1,47.5,47.5
+979,2026-06-09,"Urea 46%",Fertilizantes,"Administrador Demo",9,2,33.6,67.2
+980,2026-06-09,"Insecticida 1 L",Agroquímicos,"María Quiñónez",22,2,16.25,32.5
+981,2026-06-09,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,10,1.68,16.8
+982,2026-06-09,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",16,20,1.68,33.6
+983,2026-06-10,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",22,5,18.2,91
+984,2026-06-10,"Semilla de maíz híbrido",Semillas,"Carlos Vera",15,1,109.25,109.25
+985,2026-06-10,"Aspersor de impacto",Riego,"María Quiñónez",19,1,9.75,9.75
+986,2026-06-10,"Insecticida 1 L",Agroquímicos,"María Quiñónez",21,5,16.25,81.25
+987,2026-06-10,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,50,1.68,84
+988,2026-06-10,"Tijera de podar",Herramientas,"Administrador Demo",13,1,10.8,10.8
+989,2026-06-10,"Urea 46%",Fertilizantes,"Carlos Vera",5,3,33.6,100.8
+990,2026-06-10,"Abono orgánico compost",Fertilizantes,"María Quiñónez",11,1,12.35,12.35
+991,2026-06-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,25,1.68,42
+992,2026-06-11,"Semilla de maíz híbrido",Semillas,"María Quiñónez",24,1,109.25,109.25
+993,2026-06-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,20,1.68,33.6
+994,2026-06-11,"Urea 46%",Fertilizantes,"Carlos Vera",11,2,33.6,67.2
+995,2026-06-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,10,1.68,16.8
+996,2026-06-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",1,25,1.68,42
+997,2026-06-12,"Herbicida 1 L",Agroquímicos,"María Quiñónez",7,5,13,65
+998,2026-06-13,"Abono orgánico compost",Fertilizantes,"Administrador Demo",20,1,12.35,12.35
+999,2026-06-13,"Urea 46%",Fertilizantes,"María Quiñónez",23,5,33.6,168
+1000,2026-06-13,"Urea 46%",Fertilizantes,"María Quiñónez",14,2,33.6,67.2
+1001,2026-06-13,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",18,2,40.8,81.6
+1002,2026-06-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,50,1.68,84
+1003,2026-06-13,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,25,1.68,42
+1004,2026-06-15,"Urea 46%",Fertilizantes,"Carlos Vera",13,1,33.6,33.6
+1005,2026-06-15,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",23,1,18.2,18.2
+1006,2026-06-15,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",24,20,1.68,33.6
+1007,2026-06-15,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",16,1,18.2,18.2
+1008,2026-06-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,20,1.68,33.6
+1009,2026-06-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,25,1.68,42
+1010,2026-06-17,"Urea 46%",Fertilizantes,"Administrador Demo",24,2,33.6,67.2
+1011,2026-06-17,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",7,20,1.68,33.6
+1012,2026-06-17,"Bomba de fumigar 20 L",Herramientas,"Administrador Demo",24,1,47.5,47.5
+1013,2026-06-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",14,50,1.68,84
+1014,2026-06-17,"Insecticida 1 L",Agroquímicos,"María Quiñónez",5,1,16.25,16.25
+1015,2026-06-17,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",13,5,40.8,204
+1016,2026-06-17,"Insecticida 1 L",Agroquímicos,"Carlos Vera",18,3,16.25,48.75
+1017,2026-06-17,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",16,5,71.3,356.5
+1018,2026-06-18,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,1,40.8,40.8
+1019,2026-06-18,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",21,10,1.68,16.8
+1020,2026-06-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,50,1.68,84
+1021,2026-06-18,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",11,1,18.2,18.2
+1022,2026-06-18,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",23,1,71.3,71.3
+1023,2026-06-19,"Herbicida 1 L",Agroquímicos,"Carlos Vera",14,5,13,65
+1024,2026-06-19,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",20,2,18.2,36.4
+1025,2026-06-19,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,20,1.68,33.6
+1026,2026-06-19,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",18,5,18.2,91
+1027,2026-06-19,"Abono orgánico compost",Fertilizantes,"María Quiñónez",18,2,12.35,24.7
+1028,2026-06-19,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,20,1.68,33.6
+1029,2026-06-19,"Machete 22 pulgadas",Herramientas,"Carlos Vera",9,1,8.78,8.78
+1030,2026-06-19,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",4,5,71.3,356.5
+1031,2026-06-20,"Abono orgánico compost",Fertilizantes,"María Quiñónez",20,1,12.35,12.35
+1032,2026-06-20,"Tijera de podar",Herramientas,"Administrador Demo",3,1,10.8,10.8
+1033,2026-06-20,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,10,1.68,16.8
+1034,2026-06-20,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",16,1,71.3,71.3
+1035,2026-06-20,"Abono orgánico compost",Fertilizantes,"Carlos Vera",10,2,12.35,24.7
+1036,2026-06-22,"Abono orgánico compost",Fertilizantes,"María Quiñónez",14,1,12.35,12.35
+1037,2026-06-22,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",10,10,1.68,16.8
+1038,2026-06-22,"Urea 46%",Fertilizantes,"María Quiñónez",6,2,33.6,67.2
+1039,2026-06-22,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",2,10,1.68,16.8
+1040,2026-06-22,"Herbicida 1 L",Agroquímicos,"María Quiñónez",15,5,13,65
+1041,2026-06-23,"Aspersor de impacto",Riego,"Carlos Vera",13,1,9.75,9.75
+1042,2026-06-23,"Insecticida 1 L",Agroquímicos,"Carlos Vera",8,1,16.25,16.25
+1043,2026-06-23,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,20,1.68,33.6
+1044,2026-06-23,"Aspersor de impacto",Riego,"María Quiñónez",25,1,9.75,9.75
+1045,2026-06-23,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",17,2,71.3,142.6
+1046,2026-06-23,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,1,40.8,40.8
+1047,2026-06-24,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,10,1.68,16.8
+1048,2026-06-24,"Insecticida 1 L",Agroquímicos,"María Quiñónez",3,1,16.25,16.25
+1049,2026-06-24,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,50,1.68,84
+1050,2026-06-24,"Cinta de goteo 100 m",Riego,"Carlos Vera",4,1,22.5,22.5
+1051,2026-06-25,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",20,20,1.68,33.6
+1052,2026-06-25,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",22,5,40.8,204
+1053,2026-06-25,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,25,1.68,42
+1054,2026-06-25,"Urea 46%",Fertilizantes,"Carlos Vera",11,1,33.6,33.6
+1055,2026-06-25,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",14,1,71.3,71.3
+1056,2026-06-25,"Cinta de goteo 100 m",Riego,"María Quiñónez",7,1,22.5,22.5
+1057,2026-06-26,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,50,1.68,84
+1058,2026-06-26,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",21,1,40.8,40.8
+1059,2026-06-26,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,50,1.68,84
+1060,2026-06-26,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",6,1,18.2,18.2
+1061,2026-06-26,"Herbicida 1 L",Agroquímicos,"Administrador Demo",18,2,13,26
+1062,2026-06-27,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",13,5,18.2,91
+1063,2026-06-27,"Herbicida 1 L",Agroquímicos,"Carlos Vera",5,1,13,13
+1064,2026-06-27,"Urea 46%",Fertilizantes,"Carlos Vera",4,1,33.6,33.6
+1065,2026-06-27,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",15,20,1.68,33.6
+1066,2026-06-27,"Herbicida 1 L",Agroquímicos,"Administrador Demo",9,2,13,26
+1067,2026-06-27,"Tijera de podar",Herramientas,"Administrador Demo",4,1,10.8,10.8
+1068,2026-06-29,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",21,25,1.68,42
+1069,2026-06-29,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",23,10,1.68,16.8
+1070,2026-06-29,"Semilla de maíz híbrido",Semillas,"Carlos Vera",12,1,109.25,109.25
+1071,2026-06-29,"Machete 22 pulgadas",Herramientas,"Carlos Vera",11,1,8.78,8.78
+1072,2026-06-29,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",1,1,40.8,40.8
+1073,2026-06-29,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",1,2,18.2,36.4
+1074,2026-06-30,"Urea 46%",Fertilizantes,"Administrador Demo",2,1,33.6,33.6
+1075,2026-06-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,25,1.68,42
+1076,2026-06-30,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",21,50,1.68,84
+1077,2026-06-30,"Urea 46%",Fertilizantes,"María Quiñónez",1,1,33.6,33.6
+1078,2026-06-30,"Tijera de podar",Herramientas,"María Quiñónez",10,1,10.8,10.8
+1079,2026-06-30,"Urea 46%",Fertilizantes,"Carlos Vera",1,2,33.6,67.2
+1080,2026-06-30,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,10,1.68,16.8
+1081,2026-06-30,"Herbicida 1 L",Agroquímicos,"Carlos Vera",2,5,13,65
+1082,2026-06-30,"Tijera de podar",Herramientas,"Administrador Demo",6,1,10.8,10.8
+1083,2026-07-01,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",3,3,71.3,213.9
+1084,2026-07-01,"Urea 46%",Fertilizantes,"Carlos Vera",5,1,33.6,33.6
+1085,2026-07-01,"Aspersor de impacto",Riego,"María Quiñónez",12,1,9.75,9.75
+1086,2026-07-01,"Insecticida 1 L",Agroquímicos,"Carlos Vera",21,3,16.25,48.75
+1087,2026-07-02,"Semilla de maíz híbrido",Semillas,"Carlos Vera",2,1,109.25,109.25
+1088,2026-07-02,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",4,1,71.3,71.3
+1089,2026-07-02,"Herbicida 1 L",Agroquímicos,"Administrador Demo",3,2,13,26
+1090,2026-07-02,"Machete 22 pulgadas",Herramientas,"Administrador Demo",25,2,8.78,17.56
+1091,2026-07-02,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",13,10,1.68,16.8
+1092,2026-07-02,"Cinta de goteo 100 m",Riego,"María Quiñónez",18,1,22.5,22.5
+1093,2026-07-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,25,1.68,42
+1094,2026-07-02,"Manguera 1/2 pulgada 50 m",Riego,"Administrador Demo",5,1,27.5,27.5
+1095,2026-07-03,"Herbicida 1 L",Agroquímicos,"María Quiñónez",11,1,13,13
+1096,2026-07-03,"Insecticida 1 L",Agroquímicos,"María Quiñónez",21,1,16.25,16.25
+1097,2026-07-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,10,1.68,16.8
+1098,2026-07-03,"Urea 46%",Fertilizantes,"María Quiñónez",2,2,33.6,67.2
+1099,2026-07-03,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",12,50,1.68,84
+1100,2026-07-03,"Cinta de goteo 100 m",Riego,"Administrador Demo",3,1,22.5,22.5
+1101,2026-07-04,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",18,25,1.68,42
+1102,2026-07-04,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",5,2,40.8,81.6
+1103,2026-07-06,"Urea 46%",Fertilizantes,"Carlos Vera",13,1,33.6,33.6
+1104,2026-07-06,"Machete 22 pulgadas",Herramientas,"María Quiñónez",13,2,8.78,17.56
+1105,2026-07-06,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",6,1,40.8,40.8
+1106,2026-07-06,"Urea 46%",Fertilizantes,"Carlos Vera",4,2,33.6,67.2
+1107,2026-07-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",11,20,1.68,33.6
+1108,2026-07-06,"Machete 22 pulgadas",Herramientas,"María Quiñónez",2,1,8.78,8.78
+1109,2026-07-06,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,25,1.68,42
+1110,2026-07-07,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,5,40.8,204
+1111,2026-07-07,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,25,1.68,42
+1112,2026-07-07,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,25,1.68,42
+1113,2026-07-08,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,20,1.68,33.6
+1114,2026-07-08,"Urea 46%",Fertilizantes,"María Quiñónez",25,3,33.6,100.8
+1115,2026-07-08,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",17,1,40.8,40.8
+1116,2026-07-08,"Machete 22 pulgadas",Herramientas,"Administrador Demo",11,1,8.78,8.78
+1117,2026-07-08,"Herbicida 1 L",Agroquímicos,"María Quiñónez",13,3,13,39
+1118,2026-07-08,"Cinta de goteo 100 m",Riego,"Carlos Vera",25,1,22.5,22.5
+1119,2026-07-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",5,20,1.68,33.6
+1120,2026-07-09,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",4,5,18.2,91
+1121,2026-07-09,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",3,1,18.2,18.2
+1122,2026-07-09,"Abono orgánico compost",Fertilizantes,"Carlos Vera",5,1,12.35,12.35
+1123,2026-07-10,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,10,1.68,16.8
+1124,2026-07-10,"Urea 46%",Fertilizantes,"María Quiñónez",8,1,33.6,33.6
+1125,2026-07-10,"Herbicida 1 L",Agroquímicos,"María Quiñónez",15,1,13,13
+1126,2026-07-10,"Urea 46%",Fertilizantes,"María Quiñónez",8,1,33.6,33.6
+1127,2026-07-10,"Insecticida 1 L",Agroquímicos,"Carlos Vera",1,1,16.25,16.25
+1128,2026-07-10,"Cinta de goteo 100 m",Riego,"María Quiñónez",13,1,22.5,22.5
+1129,2026-07-13,"Manguera 1/2 pulgada 50 m",Riego,"Carlos Vera",22,1,27.5,27.5
+1130,2026-07-13,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,50,1.68,84
+1131,2026-07-13,"Herbicida 1 L",Agroquímicos,"María Quiñónez",22,3,13,39
+1132,2026-07-14,"Herbicida 1 L",Agroquímicos,"Carlos Vera",6,1,13,13
+1133,2026-07-14,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",20,3,18.2,54.6
+1134,2026-07-14,"Cinta de goteo 100 m",Riego,"María Quiñónez",18,1,22.5,22.5
+1135,2026-07-14,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",18,50,1.68,84
+1136,2026-07-15,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,50,1.68,84
+1137,2026-07-15,"Urea 46%",Fertilizantes,"María Quiñónez",13,2,33.6,67.2
+1138,2026-07-15,"Abono orgánico compost",Fertilizantes,"Carlos Vera",17,3,12.35,37.05
+1139,2026-07-15,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",12,2,40.8,81.6
+1140,2026-07-15,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",18,2,18.2,36.4
+1141,2026-07-15,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",7,10,1.68,16.8
+1142,2026-07-15,"Semilla de maíz híbrido",Semillas,"María Quiñónez",23,1,109.25,109.25
+1143,2026-07-16,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",21,20,1.68,33.6
+1144,2026-07-16,"Semilla de maíz híbrido",Semillas,"Carlos Vera",22,1,109.25,109.25
+1145,2026-07-16,"Herbicida 1 L",Agroquímicos,"Carlos Vera",1,1,13,13
+1146,2026-07-16,"Abono orgánico compost",Fertilizantes,"María Quiñónez",22,1,12.35,12.35
+1147,2026-07-16,"Insecticida 1 L",Agroquímicos,"Administrador Demo",10,1,16.25,16.25
+1148,2026-07-16,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",23,2,71.3,142.6
+1149,2026-07-16,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",20,5,40.8,204
+1150,2026-07-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,10,1.68,16.8
+1151,2026-07-17,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",5,1,40.8,40.8
+1152,2026-07-17,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",14,2,40.8,81.6
+1153,2026-07-17,"Machete 22 pulgadas",Herramientas,"Carlos Vera",18,3,8.78,26.34
+1154,2026-07-17,"Herbicida 1 L",Agroquímicos,"Administrador Demo",22,5,13,65
+1155,2026-07-17,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",16,1,71.3,71.3
+1156,2026-07-17,"Manguera 1/2 pulgada 50 m",Riego,"María Quiñónez",20,1,27.5,27.5
+1157,2026-07-17,"Herbicida 1 L",Agroquímicos,"Carlos Vera",3,1,13,13
+1158,2026-07-18,"Urea 46%",Fertilizantes,"Carlos Vera",21,1,33.6,33.6
+1159,2026-07-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,25,1.68,42
+1160,2026-07-18,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",6,3,18.2,54.6
+1161,2026-07-18,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",24,20,1.68,33.6
+1162,2026-07-18,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",5,5,40.8,204
+1163,2026-07-18,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,20,1.68,33.6
+1164,2026-07-20,"Herbicida 1 L",Agroquímicos,"María Quiñónez",9,1,13,13
+1165,2026-07-20,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",9,20,1.68,33.6
+1166,2026-07-20,"Abono orgánico compost",Fertilizantes,"María Quiñónez",8,2,12.35,24.7
+1167,2026-07-20,"Urea 46%",Fertilizantes,"Carlos Vera",18,3,33.6,100.8
+1168,2026-07-20,"Machete 22 pulgadas",Herramientas,"María Quiñónez",10,3,8.78,26.34
+1169,2026-07-21,"Herbicida 1 L",Agroquímicos,"Carlos Vera",8,2,13,26
+1170,2026-07-21,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,20,1.68,33.6
+1171,2026-07-21,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",11,20,1.68,33.6
+1172,2026-07-22,"Abono orgánico compost",Fertilizantes,"Carlos Vera",10,1,12.35,12.35
+1173,2026-07-22,"Urea 46%",Fertilizantes,"Carlos Vera",14,2,33.6,67.2
+1174,2026-07-22,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",6,5,18.2,91
+1175,2026-07-22,"Urea 46%",Fertilizantes,"María Quiñónez",8,1,33.6,33.6
+1176,2026-07-22,"Herbicida 1 L",Agroquímicos,"Carlos Vera",9,2,13,26
+1177,2026-07-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",1,20,1.68,33.6
+1178,2026-07-23,"Abono orgánico compost",Fertilizantes,"María Quiñónez",13,3,12.35,37.05
+1179,2026-07-23,"Machete 22 pulgadas",Herramientas,"Administrador Demo",17,2,8.78,17.56
+1180,2026-07-23,"Insecticida 1 L",Agroquímicos,"María Quiñónez",11,1,16.25,16.25
+1181,2026-07-24,"Herbicida 1 L",Agroquímicos,"María Quiñónez",24,5,13,65
+1182,2026-07-24,"Aspersor de impacto",Riego,"Carlos Vera",13,1,9.75,9.75
+1183,2026-07-24,"Herbicida 1 L",Agroquímicos,"María Quiñónez",5,1,13,13
+1184,2026-07-24,"Semilla de arroz SFL-11",Semillas,"Administrador Demo",2,1,71.3,71.3
+1185,2026-07-24,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",1,10,1.68,16.8
+1186,2026-07-24,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,25,1.68,42
+1187,2026-07-25,"Herbicida 1 L",Agroquímicos,"Administrador Demo",4,5,13,65
+1188,2026-07-25,"Insecticida 1 L",Agroquímicos,"Carlos Vera",24,3,16.25,48.75
+1189,2026-07-25,"Insecticida 1 L",Agroquímicos,"Carlos Vera",2,3,16.25,48.75
+1190,2026-07-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",24,50,1.68,84
+1191,2026-07-27,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",7,10,1.68,16.8
+1192,2026-07-27,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",7,1,18.2,18.2
+1193,2026-07-27,"Urea 46%",Fertilizantes,"Carlos Vera",3,1,33.6,33.6
+1194,2026-07-27,"Cinta de goteo 100 m",Riego,"Administrador Demo",6,1,22.5,22.5
+1195,2026-07-27,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",1,10,1.68,16.8
+1196,2026-07-27,"Herbicida 1 L",Agroquímicos,"Administrador Demo",12,1,13,13
+1197,2026-07-27,"Semilla de maíz híbrido",Semillas,"María Quiñónez",16,1,109.25,109.25
+1198,2026-07-28,"Urea 46%",Fertilizantes,"Carlos Vera",15,3,33.6,100.8
+1199,2026-07-28,"Herbicida 1 L",Agroquímicos,"María Quiñónez",16,2,13,26
+1200,2026-07-28,"Insecticida 1 L",Agroquímicos,"María Quiñónez",12,1,16.25,16.25
+1201,2026-07-28,"Aspersor de impacto",Riego,"María Quiñónez",17,1,9.75,9.75
+1202,2026-07-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",1,25,1.68,42
+1203,2026-07-28,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",1,1,40.8,40.8
+1204,2026-07-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,10,1.68,16.8
+1205,2026-07-29,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",6,1,71.3,71.3
+1206,2026-07-29,"Machete 22 pulgadas",Herramientas,"Administrador Demo",24,1,8.78,8.78
+1207,2026-07-29,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",25,20,1.68,33.6
+1208,2026-07-29,"Aspersor de impacto",Riego,"Carlos Vera",1,1,9.75,9.75
+1209,2026-07-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,50,1.68,84
+1210,2026-07-30,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",6,20,1.68,33.6
+1211,2026-07-30,"Aspersor de impacto",Riego,"María Quiñónez",4,1,9.75,9.75
+1212,2026-07-30,"Abono orgánico compost",Fertilizantes,"María Quiñónez",17,5,12.35,61.75
+1213,2026-07-30,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",25,1,71.3,71.3
+1214,2026-07-30,"Semilla de maíz híbrido",Semillas,"Administrador Demo",15,1,109.25,109.25
+1215,2026-07-30,"Manguera 1/2 pulgada 50 m",Riego,"Carlos Vera",16,1,27.5,27.5
+1216,2026-07-30,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",7,3,40.8,122.4
+1217,2026-07-31,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",6,5,18.2,91
+1218,2026-07-31,"Aspersor de impacto",Riego,"Administrador Demo",23,1,9.75,9.75
+1219,2026-07-31,"Abono orgánico compost",Fertilizantes,"Carlos Vera",18,3,12.35,37.05
+1220,2026-07-31,"Urea 46%",Fertilizantes,"María Quiñónez",1,1,33.6,33.6
+1221,2026-07-31,"Insecticida 1 L",Agroquímicos,"Carlos Vera",1,2,16.25,32.5
+1222,2026-07-31,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",20,50,1.68,84
+1223,2026-08-01,"Semilla de maíz híbrido",Semillas,"Carlos Vera",24,1,109.25,109.25
+1224,2026-08-01,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",17,1,47.5,47.5
+1225,2026-08-01,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",11,20,1.68,33.6
+1226,2026-08-01,"Urea 46%",Fertilizantes,"Carlos Vera",11,2,33.6,67.2
+1227,2026-08-01,"Urea 46%",Fertilizantes,"María Quiñónez",12,2,33.6,67.2
+1228,2026-08-03,"Manguera 1/2 pulgada 50 m",Riego,"María Quiñónez",25,1,27.5,27.5
+1229,2026-08-04,"Tijera de podar",Herramientas,"Carlos Vera",9,1,10.8,10.8
+1230,2026-08-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,10,1.68,16.8
+1231,2026-08-04,"Cinta de goteo 100 m",Riego,"María Quiñónez",2,1,22.5,22.5
+1232,2026-08-04,"Tijera de podar",Herramientas,"María Quiñónez",14,1,10.8,10.8
+1233,2026-08-05,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",3,3,71.3,213.9
+1234,2026-08-05,"Semilla de maíz híbrido",Semillas,"Carlos Vera",13,1,109.25,109.25
+1235,2026-08-05,"Aspersor de impacto",Riego,"María Quiñónez",17,1,9.75,9.75
+1236,2026-08-05,"Herbicida 1 L",Agroquímicos,"Administrador Demo",3,1,13,13
+1237,2026-08-05,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",18,20,1.68,33.6
+1238,2026-08-06,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,25,1.68,42
+1239,2026-08-06,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",14,2,40.8,81.6
+1240,2026-08-06,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",5,1,18.2,18.2
+1241,2026-08-06,"Herbicida 1 L",Agroquímicos,"María Quiñónez",10,1,13,13
+1242,2026-08-07,"Insecticida 1 L",Agroquímicos,"María Quiñónez",21,3,16.25,48.75
+1243,2026-08-07,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",4,1,40.8,40.8
+1244,2026-08-07,"Aspersor de impacto",Riego,"María Quiñónez",7,1,9.75,9.75
+1245,2026-08-07,"Herbicida 1 L",Agroquímicos,"María Quiñónez",4,1,13,13
+1246,2026-08-07,"Urea 46%",Fertilizantes,"María Quiñónez",1,2,33.6,67.2
+1247,2026-08-07,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",12,25,1.68,42
+1248,2026-08-08,"Aspersor de impacto",Riego,"María Quiñónez",12,1,9.75,9.75
+1249,2026-08-08,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",21,20,1.68,33.6
+1250,2026-08-08,"Aspersor de impacto",Riego,"María Quiñónez",18,1,9.75,9.75
+1251,2026-08-08,"Herbicida 1 L",Agroquímicos,"María Quiñónez",16,5,13,65
+1252,2026-08-08,"Machete 22 pulgadas",Herramientas,"Carlos Vera",11,1,8.78,8.78
+1253,2026-08-08,"Semilla de maíz híbrido",Semillas,"Carlos Vera",22,1,109.25,109.25
+1254,2026-08-10,"Urea 46%",Fertilizantes,"Carlos Vera",11,2,33.6,67.2
+1255,2026-08-10,"Insecticida 1 L",Agroquímicos,"Administrador Demo",18,5,16.25,81.25
+1256,2026-08-10,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",11,1,40.8,40.8
+1257,2026-08-10,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",24,10,1.68,16.8
+1258,2026-08-10,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",14,1,40.8,40.8
+1259,2026-08-10,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,10,1.68,16.8
+1260,2026-08-10,"Semilla de maíz híbrido",Semillas,"Carlos Vera",17,1,109.25,109.25
+1261,2026-08-10,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,10,1.68,16.8
+1262,2026-08-10,"Machete 22 pulgadas",Herramientas,"Administrador Demo",24,1,8.78,8.78
+1263,2026-08-11,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",18,20,1.68,33.6
+1264,2026-08-11,"Urea 46%",Fertilizantes,"María Quiñónez",6,3,33.6,100.8
+1265,2026-08-12,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,20,1.68,33.6
+1266,2026-08-12,"Herbicida 1 L",Agroquímicos,"María Quiñónez",10,1,13,13
+1267,2026-08-12,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,25,1.68,42
+1268,2026-08-12,"Machete 22 pulgadas",Herramientas,"María Quiñónez",2,1,8.78,8.78
+1269,2026-08-12,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",1,2,71.3,142.6
+1270,2026-08-12,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",24,10,1.68,16.8
+1271,2026-08-12,"Cinta de goteo 100 m",Riego,"María Quiñónez",12,1,22.5,22.5
+1272,2026-08-13,"Abono orgánico compost",Fertilizantes,"María Quiñónez",20,3,12.35,37.05
+1273,2026-08-13,"Machete 22 pulgadas",Herramientas,"Carlos Vera",13,5,8.78,43.9
+1274,2026-08-13,"Machete 22 pulgadas",Herramientas,"María Quiñónez",4,5,8.78,43.9
+1275,2026-08-13,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",20,50,1.68,84
+1276,2026-08-13,"Tijera de podar",Herramientas,"María Quiñónez",14,1,10.8,10.8
+1277,2026-08-14,"Semilla de maíz híbrido",Semillas,"María Quiñónez",15,1,109.25,109.25
+1278,2026-08-14,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",22,3,18.2,54.6
+1279,2026-08-14,"Abono orgánico compost",Fertilizantes,"Carlos Vera",12,1,12.35,12.35
+1280,2026-08-14,"Urea 46%",Fertilizantes,"Carlos Vera",13,2,33.6,67.2
+1282,2026-08-14,"Herbicida 1 L",Agroquímicos,"María Quiñónez",18,1,13,13
+1281,2026-08-14,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",13,2,40.8,81.6
+1283,2026-08-14,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",24,2,71.3,142.6
+1284,2026-08-14,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",19,2,18.2,36.4
+1285,2026-08-14,"Aspersor de impacto",Riego,"Administrador Demo",3,1,9.75,9.75
+1286,2026-08-14,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",2,1,18.2,18.2
+1287,2026-08-15,"Abono orgánico compost",Fertilizantes,"Administrador Demo",14,1,12.35,12.35
+1288,2026-08-15,"Cinta de goteo 100 m",Riego,"Administrador Demo",15,1,22.5,22.5
+1289,2026-08-15,"Insecticida 1 L",Agroquímicos,"María Quiñónez",20,1,16.25,16.25
+1290,2026-08-15,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",15,2,40.8,81.6
+1291,2026-08-15,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",22,50,1.68,84
+1292,2026-08-15,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",13,25,1.68,42
+1293,2026-08-15,"Manguera 1/2 pulgada 50 m",Riego,"Carlos Vera",4,1,27.5,27.5
+1294,2026-08-15,"Abono orgánico compost",Fertilizantes,"Administrador Demo",11,2,12.35,24.7
+1295,2026-08-15,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",7,25,1.68,42
+1296,2026-08-17,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",10,1,71.3,71.3
+1297,2026-08-18,"Bomba de fumigar 20 L",Herramientas,"Administrador Demo",13,1,47.5,47.5
+1298,2026-08-18,"Tijera de podar",Herramientas,"María Quiñónez",1,1,10.8,10.8
+1299,2026-08-18,"Urea 46%",Fertilizantes,"María Quiñónez",15,5,33.6,168
+1300,2026-08-18,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",8,3,18.2,54.6
+1301,2026-08-19,"Aspersor de impacto",Riego,"Administrador Demo",10,1,9.75,9.75
+1302,2026-08-19,"Urea 46%",Fertilizantes,"María Quiñónez",25,2,33.6,67.2
+1303,2026-08-19,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",5,20,1.68,33.6
+1304,2026-08-19,"Insecticida 1 L",Agroquímicos,"Carlos Vera",1,3,16.25,48.75
+1305,2026-08-19,"Urea 46%",Fertilizantes,"María Quiñónez",15,1,33.6,33.6
+1306,2026-08-20,"Semilla de maíz híbrido",Semillas,"María Quiñónez",7,1,109.25,109.25
+1307,2026-08-20,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",17,20,1.68,33.6
+1308,2026-08-20,"Tijera de podar",Herramientas,"María Quiñónez",15,1,10.8,10.8
+1309,2026-08-20,"Semilla de arroz SFL-11",Semillas,"María Quiñónez",2,1,71.3,71.3
+1310,2026-08-21,"Urea 46%",Fertilizantes,"Carlos Vera",12,2,33.6,67.2
+1311,2026-08-21,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",7,1,18.2,18.2
+1312,2026-08-21,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",23,5,40.8,204
+1313,2026-08-21,"Machete 22 pulgadas",Herramientas,"Carlos Vera",18,2,8.78,17.56
+1314,2026-08-21,"Urea 46%",Fertilizantes,"Carlos Vera",14,1,33.6,33.6
+1315,2026-08-21,"Herbicida 1 L",Agroquímicos,"Carlos Vera",1,2,13,26
+1316,2026-08-21,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",15,50,1.68,84
+1317,2026-08-21,"Semilla de maíz híbrido",Semillas,"Administrador Demo",12,1,109.25,109.25
+1318,2026-08-21,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",11,10,1.68,16.8
+1319,2026-08-22,"Urea 46%",Fertilizantes,"María Quiñónez",11,1,33.6,33.6
+1320,2026-08-22,"Herbicida 1 L",Agroquímicos,"María Quiñónez",22,5,13,65
+1321,2026-08-22,"Urea 46%",Fertilizantes,"María Quiñónez",20,5,33.6,168
+1322,2026-08-22,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",14,50,1.68,84
+1323,2026-08-22,"Abono orgánico compost",Fertilizantes,"Administrador Demo",10,1,12.35,12.35
+1324,2026-08-24,"Manguera 1/2 pulgada 50 m",Riego,"Administrador Demo",16,1,27.5,27.5
+1325,2026-08-24,"Insecticida 1 L",Agroquímicos,"Administrador Demo",3,5,16.25,81.25
+1326,2026-08-24,"Herbicida 1 L",Agroquímicos,"María Quiñónez",9,1,13,13
+1327,2026-08-24,"Urea 46%",Fertilizantes,"Administrador Demo",17,2,33.6,67.2
+1328,2026-08-24,"Abono orgánico compost",Fertilizantes,"María Quiñónez",2,5,12.35,61.75
+1329,2026-08-25,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",3,1,71.3,71.3
+1330,2026-08-26,"Bomba de fumigar 20 L",Herramientas,"Administrador Demo",17,1,47.5,47.5
+1331,2026-08-26,"Herbicida 1 L",Agroquímicos,"María Quiñónez",19,3,13,39
+1332,2026-08-26,"Manguera 1/2 pulgada 50 m",Riego,"Carlos Vera",23,1,27.5,27.5
+1333,2026-08-26,"Tijera de podar",Herramientas,"Administrador Demo",20,1,10.8,10.8
+1334,2026-08-26,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",21,5,18.2,91
+1335,2026-08-26,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",10,25,1.68,42
+1336,2026-08-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,50,1.68,84
+1337,2026-08-27,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",11,25,1.68,42
+1338,2026-08-27,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",23,1,18.2,18.2
+1339,2026-08-28,"Abono orgánico compost",Fertilizantes,"María Quiñónez",5,2,12.35,24.7
+1340,2026-08-28,"Tijera de podar",Herramientas,"Carlos Vera",17,1,10.8,10.8
+1341,2026-08-28,"Herbicida 1 L",Agroquímicos,"María Quiñónez",12,1,13,13
+1342,2026-08-28,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,20,1.68,33.6
+1343,2026-08-28,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",10,20,1.68,33.6
+1344,2026-08-29,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",4,1,47.5,47.5
+1345,2026-08-29,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",23,20,1.68,33.6
+1346,2026-08-31,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,20,1.68,33.6
+1347,2026-08-31,"Urea 46%",Fertilizantes,"María Quiñónez",5,2,33.6,67.2
+1348,2026-08-31,"Aspersor de impacto",Riego,"Carlos Vera",12,1,9.75,9.75
+1349,2026-08-31,"Insecticida 1 L",Agroquímicos,"Carlos Vera",8,1,16.25,16.25
+1350,2026-09-01,"Urea 46%",Fertilizantes,"Carlos Vera",1,2,33.6,67.2
+1351,2026-09-02,"Semilla de maíz híbrido",Semillas,"Administrador Demo",9,1,109.25,109.25
+1352,2026-09-02,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",14,5,18.2,91
+1353,2026-09-02,"Aspersor de impacto",Riego,"Carlos Vera",23,1,9.75,9.75
+1354,2026-09-02,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",2,10,1.68,16.8
+1355,2026-09-02,"Machete 22 pulgadas",Herramientas,"María Quiñónez",16,1,8.78,8.78
+1356,2026-09-03,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",14,1,18.2,18.2
+1357,2026-09-03,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",6,3,40.8,122.4
+1358,2026-09-03,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",9,20,1.68,33.6
+1359,2026-09-03,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",18,20,1.68,33.6
+1360,2026-09-03,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",5,1,47.5,47.5
+1361,2026-09-04,"Urea 46%",Fertilizantes,"Carlos Vera",17,2,33.6,67.2
+1362,2026-09-04,"Aspersor de impacto",Riego,"Carlos Vera",25,1,9.75,9.75
+1363,2026-09-04,"Urea 46%",Fertilizantes,"Administrador Demo",18,1,33.6,33.6
+1364,2026-09-04,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",24,10,1.68,16.8
+1365,2026-09-04,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",8,20,1.68,33.6
+1366,2026-09-04,"Machete 22 pulgadas",Herramientas,"Carlos Vera",3,3,8.78,26.34
+1367,2026-09-05,"Cinta de goteo 100 m",Riego,"Carlos Vera",17,1,22.5,22.5
+1368,2026-09-05,"Insecticida 1 L",Agroquímicos,"María Quiñónez",23,1,16.25,16.25
+1369,2026-09-05,"Semilla de maíz híbrido",Semillas,"Administrador Demo",11,1,109.25,109.25
+1370,2026-09-05,"Urea 46%",Fertilizantes,"María Quiñónez",4,2,33.6,67.2
+1371,2026-09-07,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",18,2,18.2,36.4
+1372,2026-09-07,"Manguera 1/2 pulgada 50 m",Riego,"María Quiñónez",18,1,27.5,27.5
+1373,2026-09-07,"Herbicida 1 L",Agroquímicos,"Carlos Vera",15,1,13,13
+1374,2026-09-07,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",17,3,40.8,122.4
+1375,2026-09-07,"Cinta de goteo 100 m",Riego,"María Quiñónez",16,1,22.5,22.5
+1376,2026-09-07,"Herbicida 1 L",Agroquímicos,"Administrador Demo",15,2,13,26
+1377,2026-09-08,"Abono orgánico compost",Fertilizantes,"Administrador Demo",11,5,12.35,61.75
+1378,2026-09-08,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",3,2,18.2,36.4
+1379,2026-09-08,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",22,10,1.68,16.8
+1380,2026-09-08,"Aspersor de impacto",Riego,"Carlos Vera",13,1,9.75,9.75
+1381,2026-09-09,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",13,1,40.8,40.8
+1382,2026-09-09,"Herbicida 1 L",Agroquímicos,"María Quiñónez",15,2,13,26
+1383,2026-09-09,"Urea 46%",Fertilizantes,"Administrador Demo",13,1,33.6,33.6
+1384,2026-09-09,"Cinta de goteo 100 m",Riego,"Carlos Vera",21,1,22.5,22.5
+1385,2026-09-10,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",4,20,1.68,33.6
+1386,2026-09-10,"Urea 46%",Fertilizantes,"María Quiñónez",12,1,33.6,33.6
+1387,2026-09-10,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",2,10,1.68,16.8
+1388,2026-09-10,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",20,25,1.68,42
+1389,2026-09-11,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",7,1,18.2,18.2
+1390,2026-09-11,"Machete 22 pulgadas",Herramientas,"Administrador Demo",8,2,8.78,17.56
+1391,2026-09-11,"Urea 46%",Fertilizantes,"María Quiñónez",25,1,33.6,33.6
+1392,2026-09-11,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",15,20,1.68,33.6
+1393,2026-09-11,"Urea 46%",Fertilizantes,"María Quiñónez",6,2,33.6,67.2
+1394,2026-09-12,"Machete 22 pulgadas",Herramientas,"Administrador Demo",15,5,8.78,43.9
+1395,2026-09-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",20,25,1.68,42
+1396,2026-09-12,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",17,20,1.68,33.6
+1397,2026-09-12,"Urea 46%",Fertilizantes,"Carlos Vera",20,2,33.6,67.2
+1398,2026-09-12,"Fertilizante 10-30-10",Fertilizantes,"Carlos Vera",2,3,40.8,122.4
+1399,2026-09-14,"Cinta de goteo 100 m",Riego,"Administrador Demo",8,1,22.5,22.5
+1400,2026-09-14,"Urea 46%",Fertilizantes,"María Quiñónez",6,1,33.6,33.6
+1401,2026-09-14,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",6,5,40.8,204
+1402,2026-09-14,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",3,2,18.2,36.4
+1403,2026-09-15,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",11,25,1.68,42
+1404,2026-09-15,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",6,2,18.2,36.4
+1405,2026-09-15,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",1,1,40.8,40.8
+1406,2026-09-16,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",6,1,18.2,18.2
+1407,2026-09-16,"Cinta de goteo 100 m",Riego,"María Quiñónez",7,1,22.5,22.5
+1408,2026-09-16,"Herbicida 1 L",Agroquímicos,"Administrador Demo",15,2,13,26
+1409,2026-09-16,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",6,50,1.68,84
+1410,2026-09-16,"Aspersor de impacto",Riego,"Carlos Vera",8,1,9.75,9.75
+1411,2026-09-16,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",21,10,1.68,16.8
+1412,2026-09-17,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",19,1,40.8,40.8
+1413,2026-09-17,"Herbicida 1 L",Agroquímicos,"Carlos Vera",12,1,13,13
+1414,2026-09-17,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",10,50,1.68,84
+1415,2026-09-17,"Cinta de goteo 100 m",Riego,"Carlos Vera",4,1,22.5,22.5
+1416,2026-09-17,"Aspersor de impacto",Riego,"María Quiñónez",18,1,9.75,9.75
+1417,2026-09-17,"Urea 46%",Fertilizantes,"Carlos Vera",14,2,33.6,67.2
+1418,2026-09-18,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",7,1,47.5,47.5
+1419,2026-09-18,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",21,1,18.2,18.2
+1420,2026-09-18,"Herbicida 1 L",Agroquímicos,"María Quiñónez",3,3,13,39
+1421,2026-09-18,"Abono orgánico compost",Fertilizantes,"Carlos Vera",11,2,12.35,24.7
+1422,2026-09-19,"Fungicida sistémico 1 L",Agroquímicos,"Carlos Vera",17,3,18.2,54.6
+1423,2026-09-19,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",4,5,71.3,356.5
+1424,2026-09-19,"Tijera de podar",Herramientas,"Carlos Vera",24,1,10.8,10.8
+1425,2026-09-19,"Bomba de fumigar 20 L",Herramientas,"Carlos Vera",20,1,47.5,47.5
+1426,2026-09-19,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",19,50,1.68,84
+1427,2026-09-21,"Insecticida 1 L",Agroquímicos,"María Quiñónez",19,1,16.25,16.25
+1428,2026-09-21,"Machete 22 pulgadas",Herramientas,"Administrador Demo",19,1,8.78,8.78
+1429,2026-09-21,"Bomba de fumigar 20 L",Herramientas,"Administrador Demo",16,1,47.5,47.5
+1430,2026-09-21,"Semilla de maíz híbrido",Semillas,"Carlos Vera",23,1,109.25,109.25
+1431,2026-09-21,"Fertilizante 10-30-10",Fertilizantes,"Administrador Demo",3,1,40.8,40.8
+1432,2026-09-21,"Aspersor de impacto",Riego,"Administrador Demo",18,1,9.75,9.75
+1433,2026-09-22,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",8,20,1.68,33.6
+1434,2026-09-22,"Herbicida 1 L",Agroquímicos,"María Quiñónez",7,2,13,26
+1435,2026-09-22,"Urea 46%",Fertilizantes,"María Quiñónez",8,5,33.6,168
+1436,2026-09-22,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",5,10,1.68,16.8
+1437,2026-09-23,"Insecticida 1 L",Agroquímicos,"Administrador Demo",20,1,16.25,16.25
+1438,2026-09-23,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",7,2,71.3,142.6
+1439,2026-09-23,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",4,25,1.68,42
+1440,2026-09-23,"Cinta de goteo 100 m",Riego,"María Quiñónez",13,1,22.5,22.5
+1441,2026-09-23,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",18,25,1.68,42
+1442,2026-09-23,"Fungicida sistémico 1 L",Agroquímicos,"María Quiñónez",16,2,18.2,36.4
+1443,2026-09-23,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",5,1,71.3,71.3
+1444,2026-09-24,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",3,10,1.68,16.8
+1445,2026-09-24,"Aspersor de impacto",Riego,"María Quiñónez",19,1,9.75,9.75
+1446,2026-09-24,"Insecticida 1 L",Agroquímicos,"Carlos Vera",17,2,16.25,32.5
+1447,2026-09-25,"Cinta de goteo 100 m",Riego,"Carlos Vera",15,1,22.5,22.5
+1448,2026-09-25,"Fertilizante 10-30-10",Fertilizantes,"María Quiñónez",4,3,40.8,122.4
+1449,2026-09-25,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",1,50,1.68,84
+1450,2026-09-25,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",22,3,71.3,213.9
+1451,2026-09-26,"Herbicida 1 L",Agroquímicos,"Administrador Demo",16,1,13,13
+1452,2026-09-26,"Urea 46%",Fertilizantes,"Carlos Vera",14,5,33.6,168
+1453,2026-09-26,"Machete 22 pulgadas",Herramientas,"Carlos Vera",6,1,8.78,8.78
+1454,2026-09-26,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",25,25,1.68,42
+1455,2026-09-28,"Semilla de arroz SFL-11",Semillas,"Carlos Vera",11,1,71.3,71.3
+1456,2026-09-28,"Semilla de cacao CCN-51",Semillas,"María Quiñónez",17,20,1.68,33.6
+1457,2026-09-28,"Herbicida 1 L",Agroquímicos,"Carlos Vera",16,2,13,26
+1458,2026-09-29,"Semilla de cacao CCN-51",Semillas,"Administrador Demo",9,25,1.68,42
+1459,2026-09-29,"Urea 46%",Fertilizantes,"María Quiñónez",7,3,33.6,100.8
+1460,2026-09-29,"Aspersor de impacto",Riego,"Carlos Vera",23,1,9.75,9.75
+1461,2026-09-30,"Herbicida 1 L",Agroquímicos,"Carlos Vera",20,1,13,13
+1462,2026-09-30,"Fungicida sistémico 1 L",Agroquímicos,"Administrador Demo",8,3,18.2,54.6
+1463,2026-09-30,"Semilla de cacao CCN-51",Semillas,"Carlos Vera",4,25,1.68,42
