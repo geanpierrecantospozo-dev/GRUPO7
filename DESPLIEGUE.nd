@@ -1,0 +1,32 @@
+# Despliegue del sistema
+ 
+## Hosting
+
+- Proveedor: AwardSpace
+
+- Sitio: agroventas.atwebpages.com
+
+- Versión de PHP: 8.x
+ 
+## Base de datos
+
+- Motor: MySQL, administrada con phpMyAdmin.
+
+- Se importó el script SQL con las tablas del sistema (usuarios, clientes, categorías, productos, proveedores, compras, ventas y movimientos de stock) y las tablas de la tienda en línea (pedidos, pedido_items y pagos).
+ 
+## Archivos de la aplicación
+
+- Se subieron al hosting las carpetas api, controller, css, js, model, partials, tienda, view y assets, junto con index.php.
+
+- La conexión a la base de datos se configura en config.php.
+
+- config.php contiene credenciales y NO se sube al repositorio; en el repositorio solo está config.ejemplo.php.
+ 
+## Verificación
+
+- Se probó el inicio de sesión y la tienda en línea.
+
+- Se probó el endpoint api/datos.php, protegido con token, y se conectó a Power BI mediante el link del CSV.
+
+- Se corrigió un problema en el CSV: PHP imprimía avisos dentro del archivo, y se arregló en api/datos.php.
+ 
